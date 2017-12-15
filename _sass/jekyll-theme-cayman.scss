@@ -90,7 +90,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("/assets/images/AnnArbor/ann_arbor_mich_theater.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/assets/images/AnnArbor/ann_arbor_mich_theater.jpg");
   background-size:100%;
 
 
@@ -128,7 +128,7 @@ a {
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 1;
-  background-color: slategray;
+  background-color: transparent;
 
   @include large {
     font-size: 1.25rem;
