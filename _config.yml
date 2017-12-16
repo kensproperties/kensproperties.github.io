@@ -1,9 +1,9 @@
-title: Ken Land Properties
+title: Ken's Properties, LLC
 description: A personal alternative to an impersonal corporate entity.
 description1: Historic, cozy, well maintained, properties downtown Ann Arbor since 1976.
-  Locally owned and operated for over 40 years.
-  No noisy elevators crowded with strangers.
-  Pet free and smoke free properties.
+description2: Locally owned and operated for over 40 years.
+description3: No noisy elevators crowded with strangers.
+description4: Pet free and smoke free properties.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman

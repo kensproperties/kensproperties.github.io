@@ -8,16 +8,19 @@
     <meta name="theme-color" content="#157878">
     <link href="https://fonts.googleapis.com/css?family=Old+Standard+TT" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link type="text/css" src="https://cdnjs.com/libraries/bttn.css"/>
+
   </head>
   <body>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <h3 class="project-tagline">{{ site.description1 }}</h3>
+      <h3 class="project-tagline">{{ site.description1 }} <br> {{ site.description2 }} <br> {{ site.description3 }} <br> {{ site.description4 }}</h3>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
+        <a href="/" class="btn">Home</a>
         <a href="/about" class="btn">About</a>
         <a href="/contact" class="btn">Contact</a>
         <a href="/application" class="btn">Application For Tenancy</a>
