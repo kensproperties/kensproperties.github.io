@@ -7,16 +7,18 @@ layout: page
 ### 6 Parkview Place, Ann Arbor, MI  48103
 Five one bedroom apartments
 
-Check the map! It’s about as Downtown as it can get yet still on a quiet, private cul-de-sac with other small buildings and family homes!  
+|[Apartment1](/properties/6parkviewApt1)| [Apartment2](/properties/6parkviewApt2)| [Apartment 3](/properties/6parkviewApt3)|[Apartment4](/properties/6parkviewApt4)| [Apartment5](/properties/6parkviewApt5)|
+
+Check the map! It’s about as Downtown as it can get yet still on a quiet, private cul-de-sac with other small buildings and family homes!
 
 ### Location isn’t everything, it’s the ONLY thing.
 
-- 5 minutes walk to Bill’s Beer Garden:  you can party with friends and not have to worry about driving home.  
-- 5 minutes walk to all that there is to enjoy about downtown Ann Arbor: shops, cafes, bars, restaurants, Fleetwood Diner, the list goes on.  
+- 5 minutes walk to Bill’s Beer Garden:  you can party with friends and not have to worry about driving home.
+- 5 minutes walk to all that there is to enjoy about downtown Ann Arbor: shops, cafes, bars, restaurants, Fleetwood Diner, the list goes on.
 - 90 seconds walk to the Ann Arbor Y.
 - 30 seconds walk to AATA bus stop, both inbound and out bound.
 - 8 minutes walk to Kerrytown.  Like Kerrytown shopping and the farmer’s market?  No need to struggle for a parking space.
-- 12 minutes walk to University of Michigan campus.  
+- 12 minutes walk to University of Michigan campus.
 - On bus line to University of Michigan Health System.
 - Adjacent to West Park.
 - Steps away from:
@@ -27,11 +29,11 @@ Check the map! It’s about as Downtown as it can get yet still on a quiet, priv
 
 ### Perfect for someone:
 - Who is working downtown or at The University of Michigan.
-- Who wants to enjoy all that Ann Arbor has to offer. 
+- Who wants to enjoy all that Ann Arbor has to offer.
 - Who is a medical resident.
 - Who is a medical, law, business, longer term masters or Ph.D. student.
 
-### Outstanding Features 
+### Outstanding Features
 
 * 6 Parkview Place, due to its condition and location, is perhaps the nicest apartment residence in Ann Arbor and that is a bold statement. You must see it to believe it. Solid quality of 1957 construction plus the pristine condition maintained by an OC landlord who overlooked nothing in terms of condition and maintenance. This is a comfortable place to live. You will never want to leave. Tons of closet space and storage inside each apartment. Spacious lockable storage units in the basement.
 
@@ -46,7 +48,7 @@ Check the map! It’s about as Downtown as it can get yet still on a quiet, priv
 * HEAT IS FREE!!!  Each apartment has its own modern, digital, programmable thermostat that you can control.
 * All apartments are air-conditioned.
 
-### Laundry 
+### Laundry
 Clean, modern, well maintained coin-operated washer and dryer are located in meticulously clean basement.
 
 
