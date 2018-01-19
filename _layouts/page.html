@@ -12,6 +12,20 @@
 
   </head>
   <body>
+    <section class="page-header">
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="/" class="btn">Home</a>
+        <a href="/about" class="btn">About</a>
+        <a href="/contact" class="btn">Contact</a>
+        <a href="/application" class="btn">Application For Tenancy</a>
+        <a href="/about" class="btn">Map</a>
+        <a href="/pics" class="btn">Pics of Ann Arbor</a>
+        <a href="/testimonials" class="btn">Testimonials</a>
+      {% endif %}
+    </section>
     <section class="main-content">
       {{ content }}
 
