@@ -89,5 +89,13 @@ Rent is competitive.   I have routinely heard the following statement, “This i
 ### Lease
 One year minimum lease beginning September 1.  I am motivated to sign multiple year’s lease. Let’s talk.  Discount available for multiple year’s lease.
 
+![](/assets/images/441second/441secondpic1.png)
+![](/assets/images/441second/441secondpic2.png)
+![](/assets/images/441second/441secondpic3.jpg)
+![](/assets/images/441second/441secondpic4.jpg)
+![](/assets/images/441second/441secondpic5.png)
+![](/assets/images/441second/441secondpic6.png)
+![](/assets/images/441second/441secondpic7.jpg)
+![](/assets/images/441second/441secondpic8.jpg)
 
 [back](/)
