@@ -13,4 +13,14 @@ layout: page
 * Two hallway closets.
 * Large bedroom with large clothes closet accessed by sliding doors in track attached on top and bottom with mirrored surface.
 
+![](/assets/images/6parkview/6apt3pic1.jpg)
+![](/assets/images/6parkview/6apt3pic2.jpg)
+![](/assets/images/6parkview/6apt3pic3.jpg)
+![](/assets/images/6parkview/6apt3pic4.jpg)
+![](/assets/images/6parkview/6apt3pic5.jpg)
+![](/assets/images/6parkview/6apt3pic6.jpg)
+![](/assets/images/6parkview/6apt3pic7.jpg)
+![](/assets/images/6parkview/6apt3pic8.jpg)
+![](/assets/images/6parkview/6apt3pic9.jpg)
+
 [back](/)
