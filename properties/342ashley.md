@@ -15,6 +15,8 @@ There are 6 offices at 342 Ashley.
 * Separate thermostat to control heat.
 * No air-conditioning and it has never needed it.
 
+![](/assets/images/342offices/342office100pic1.jpg)
+
 ## Office 101
 ### Description
 
@@ -25,6 +27,8 @@ There are 6 offices at 342 Ashley.
 * 2” white wood Venetian blinds on windows.
 * Air-conditioned.
 
+![](/assets/images/342offices/342office101pic1.jpg)
+
 ## Office 102
 ### Description
 
@@ -33,6 +37,10 @@ There are 6 offices at 342 Ashley.
 * Carpeted.
 * Three panel, south facing bay window with leaded glass plus large, fixed glass west facing window with leaded glass.
 * 2” white wood Venetian blinds on windows.
+
+![](/assets/images/342offices/342office102pic1.jpg)
+![](/assets/images/342offices/342office102pic2.jpg)
+![](/assets/images/342offices/342office102pic3.jpg)
 
 ## Office 201
 ### Description
@@ -43,6 +51,8 @@ There are 6 offices at 342 Ashley.
 * Two large east facing windows.
 * 2” white wood Venetian blinds on windows.
 
+![](/assets/images/342offices/342office201pic1.jpg)
+
 ## Office 202
 ### Description
 
@@ -51,6 +61,10 @@ There are 6 offices at 342 Ashley.
 * Carpeted
 * One large south facing window.
 * 1” aluminum mini blind on window.
+
+![](/assets/images/342offices/342office202pic1.jpg)
+![](/assets/images/342offices/342office202pic2.jpg)
+![](/assets/images/342offices/342office202pic3.jpg)
 
 ## Office 203
 ### Description
