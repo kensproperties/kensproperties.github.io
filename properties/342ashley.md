@@ -4,76 +4,57 @@ layout: page
 ## 342 Offices
 There are 6 offices at 342 Ashley.
 
+|[Office100](/properties/342ashleyoff1)| [Office101](/properties/342ashleyoff2)| [Office102](/properties/342ashleyoff3)|[Office201](/properties/342ashleyoff4)|[Office202](/properties/342ashleyoff5)|[Office203](/properties/342ashleyoff6)|
 
-## Office 100
-### Description
+### Location
 
-* Approximately 250 square feet
-* Carpeted
-* Lower level, cool in summer. Dry all seasons.
-* Three windows
-* Separate thermostat to control heat.
-* No air-conditioning and it has never needed it.
+* Downtown Ann Arbor, near the corner of West William Street.  
+* Same block as The Fleetwood Diner. 
+* As downtown as possible.
+* Short walking distance to all the cafes, shops and restaurants that downtown has to offer.
+* Perfect for mental health professional, lawyer, massage therapist or compatible practice.
 
-![](/assets/images/342offices/342office100pic1.jpg)
 
-## Office 101
-### Description
+### Outstanding Features
 
-* Approximately 170 square feet.
-* First Floor.
-* Carpeted.
-* Two large windows, one south facing and one east facing with leaded glass.
-* 2” white wood Venetian blinds on windows.
-* Air-conditioned.
+* Six, quiet, pleasant well lit offices located on three floors.
+* Free standing, restored Victorian house with commercial certificate of occupancy.
+* High efficiency gas-fired forced air heat.
+* Separate furnace for basement office.
+* High efficiency central air-conditioning.
+* Updated plumbing and wiring.
+* Historic, covered, stone porch with copper roof and gutters.
+* Kitchen with microwave oven, refrigerator, stove top and water cooler.
+* Circa 1920 building has been carefully restored by owner/occupant using high standards respecting the historic nature and ambience of the area.
 
-![](/assets/images/342offices/342office101pic1.jpg)
 
-## Office 102
-### Description
+### Utilities
 
-* Approximately 170 square feet
-* First Floor.
-* Carpeted.
-* Three panel, south facing bay window with leaded glass plus large, fixed glass west facing window with leaded glass.
-* 2” white wood Venetian blinds on windows.
+* All utilities, including internet, are included in rent.
+* Arbor Springs spring water is provided.
+* Monthly professional cleaning service provided and included in the rental agreement.
 
-![](/assets/images/342offices/342office102pic1.jpg)
-![](/assets/images/342offices/342office102pic2.jpg)
-![](/assets/images/342offices/342office102pic3.jpg)
 
-## Office 201
-### Description
+### Smoke Free
 
-* Approximately 170 square feet
-* Second floor.
-* Carpeted
-* Two large east facing windows.
-* 2” white wood Venetian blinds on windows.
+No smoking in the building or on the property.
 
-![](/assets/images/342offices/342office201pic1.jpg)
 
-## Office 202
-### Description
+### Parking
 
-* Approximately 120 square feet
-* Second floor.
-* Carpeted
-* One large south facing window.
-* 1” aluminum mini blind on window.
+* Public parking lot directly across the street.
+* Multiple private lots available within walking distance for monthly parking options.
+* Metered street parking available directly in front of the building.
 
-![](/assets/images/342offices/342office202pic1.jpg)
-![](/assets/images/342offices/342office202pic2.jpg)
-![](/assets/images/342offices/342office202pic3.jpg)
+### Rent
 
-## Office 203
-### Description
+* Tenant pays rent only, nothing else.  All utilities are included in the rent.
+* Rent is competitive and reasonable for the downtown Ann Arbor commercial area.
+* Building is rare and unique so there is not too much to compare it to.
 
-* Approximately 110 square feet
-* Second floor.
-* Carpeted
-* One west facing window.
-* 1” aluminum mini blind on window.
+### Lease
+
+* Flexible lease terms available.  All reasonable short-term and long-term proposals are open to discussion.
 
 
 [back](/)
