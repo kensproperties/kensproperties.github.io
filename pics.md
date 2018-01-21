@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ## Pics of Ann Arbor
