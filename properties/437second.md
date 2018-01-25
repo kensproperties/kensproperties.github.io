@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## 437 Second Street, Ann Arbor, MI  48104
+## 437 Second Street, Ann Arbor, MI  48103
 There are four apartments at 437 Second Street.
 
 |[Apartment 1](/properties/437secondapt1)| [Apartment 2](/properties/437secondapt2)| [Apartment 3](/properties/437secondapt3)|[Apartment 4](/properties/437secondapt4)|
