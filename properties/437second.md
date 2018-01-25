@@ -2,10 +2,10 @@
 layout: page
 ---
 
-## 437 Second St
-There are four apartments at this address.
+## 437 Second Street, Ann Arbor, MI  48104
+There are four apartments at 437 Second Street.
 
-|[Apartment1](/properties/437secondapt1)| [Apartment2](/properties/437secondapt2)| [Apartment 3](/properties/437secondapt3)|[Apartment4](/properties/437secondapt4)|
+|[Apartment 1](/properties/437secondapt1)| [Apartment 2](/properties/437secondapt2)| [Apartment 3](/properties/437secondapt3)|[Apartment 4](/properties/437secondapt4)|
 
 ### LOCATION, LOCATION, LOCATION!
 
@@ -34,6 +34,8 @@ The entire neighborhood of Old West Side is on the National Historic Register. T
 * Who wants to enjoy all that Ann Arbor has to offer. 
 * Who is a longer term medical, law, business or Ph.D. student.
 * Who is a medical resident.
+
+### The Neighborhood
 
 This is the best neighborhood in Ann Arbor.  It is quiet and
 residential, yet proximate to all the commercial, social and
