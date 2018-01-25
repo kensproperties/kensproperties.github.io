@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## 6 Parkview
-
 ### 6 Parkview Place, Ann Arbor, MI  48103
 Five one bedroom apartments
 
