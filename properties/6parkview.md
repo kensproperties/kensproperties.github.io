@@ -5,7 +5,7 @@ layout: page
 ### 6 Parkview Place, Ann Arbor, MI  48103
 Five one bedroom apartments
 
-|[Apartment1](/properties/6parkviewapt1)| [Apartment2](/properties/6parkviewapt2)| [Apartment 3](/properties/6parkviewapt3)|[Apartment4](/properties/6parkviewapt4)| [Apartment5](/properties/6parkviewapt5)|
+|[Apartment 1](/properties/6parkviewapt1)| [Apartment 2](/properties/6parkviewapt2)| [Apartment 3](/properties/6parkviewapt3)|[Apartment 4](/properties/6parkviewapt4)| [Apartment 5](/properties/6parkviewapt5)|
 
 Check the map! It’s about as Downtown as it can get yet still on a quiet, private cul-de-sac with other small buildings and family homes!
 
