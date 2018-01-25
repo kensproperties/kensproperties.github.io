@@ -1,10 +1,10 @@
 ---
 layout: page
 ---
-## 342 Offices
-There are 6 offices at 342 Ashley.
+## 342 South Ashley Street, Ann Arbor, MI  48104
+There are 6 offices at 342 South Ashley Street.
 
-|[Office100](/properties/342ashleyoff1)| [Office101](/properties/342ashleyoff2)| [Office102](/properties/342ashleyoff3)|[Office201](/properties/342ashleyoff4)|[Office202](/properties/342ashleyoff5)|[Office203](/properties/342ashleyoff6)|
+|[Office 100](/properties/342ashleyoff1)| [Office 101](/properties/342ashleyoff2)| [Office 102](/properties/342ashleyoff3)|[Office 201](/properties/342ashleyoff4)|[Office 202](/properties/342ashleyoff5)|[Office 203](/properties/342ashleyoff6)|
 
 ### Location
 
