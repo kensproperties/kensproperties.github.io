@@ -9,17 +9,16 @@ Five, one bedroom apartments.  The apartment building is located at 621 South Di
 
 ### Location, Location, Location
 
-2 blocks from the Law School 
-3 blocks  from Business School. 
+* 2 blocks from the Law School 
+* 3 blocks  from Business School. 
 
-3 minutes walk to U of M Law School
-4 minutes walk to Ross School of Business
-5 minutes walk to the Diag, the center of U of M campus 
-
-7 minutes walk to Bill’s Beer Garden
-6 minutes walk to all the shops, restaurants and cafes of downtown Ann Arbor
-6 minutes walk to all the campus commercial activity, night spots, places to eat and to meet friends.
-10 minutes walk to Kerrytown commercial district.
+* 3 minutes walk to U of M Law School
+* 4 minutes walk to Ross School of Business
+* 5 minutes walk to the Diag, the center of U of M campus 
+* 7 minutes walk to Bill’s Beer Garden
+* 6 minutes walk to all the shops, restaurants and cafes of downtown Ann Arbor
+* 6 minutes walk to all the campus commercial activity, night spots, places to eat and to meet friends.
+* 10 minutes walk to Kerrytown commercial district.
 
 ### Perfect for someone:
 * Who is working downtown or at University of Michigan.
