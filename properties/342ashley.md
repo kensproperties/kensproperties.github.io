@@ -32,7 +32,8 @@ There are 6 offices at 342 South Ashley Street.
 
 * All utilities, including internet, are included in rent.
 * Arbor Springs spring water is provided.
-* Monthly professional cleaning service provided and included in the rental agreement.
+* Professional cleaning service provided and included in the rental agreement.
+* Supplies such as paper towels are included in the rent.
 
 
 ### Smoke Free
@@ -48,7 +49,7 @@ No smoking in the building or on the property.
 
 ### Rent
 
-* Tenant pays rent only, nothing else.  All utilities are included in the rent.
+* Tenant pays rent only, nothing else.  All utilities, supplies, cleaning and internet are included in the rent.
 * Rent is competitive and reasonable for the downtown Ann Arbor commercial area.
 * Building is rare and unique so there is not too much to compare it to.
 
