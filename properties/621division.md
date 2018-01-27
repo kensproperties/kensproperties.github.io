@@ -2,12 +2,10 @@
 layout: page
 ---
 
-## 621 Division st
-
-### 621 Division St , Ann Arbor, MI  48103
+### 621 Division St , Ann Arbor, MI  48104
 Five, one bedroom apartments.  The apartment building is located at 621 South Division Street in Ann Arbor between Hill Street and Madison Streets.
 
-|[Apartment1](/properties/621divisionapt1)| [Apartment2](/properties/621divisionapt2)| [Apartment 3](/properties/621divisionapt3)|[Apartment4](/properties/621divisionapt4)| [Apartment5](/properties/621divisionapt5)|
+|[Apartment 1](/properties/621divisionapt1)| [Apartment 2](/properties/621divisionapt2)| [Apartment 3](/properties/621divisionapt3)|[Apartment 4](/properties/621divisionapt4)| [Apartment 5](/properties/621divisionapt5)|
 
 ### Location, Location, Location
 
