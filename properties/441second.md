@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## 441 Second St
-
 ### 441 Second St, Ann Arbor, MI  48103
 Single family home
 
@@ -97,5 +95,8 @@ One year minimum lease beginning September 1.  I am motivated to sign multiple y
 ![](/assets/images/441second/441secondpic6.png)
 ![](/assets/images/441second/441secondpic7.jpg)
 ![](/assets/images/441second/441secondpic8.jpg)
+![](/assets/images/441second/441secondpic9.jpg)
+![](/assets/images/441second/441secondpic10.jpg)
+![](/assets/images/441second/441secondpic11.jpg)
 
 [back](/)
