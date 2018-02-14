@@ -14,6 +14,7 @@ layout: page
 * 2 large closet with shelves, one walk in.
 * Living room with commercial grade carpet.
 * Full bath with claw foot tub with shower.
+* Insulated glass windows.
 
 ![](/assets/images/437second/437secondapt4pic1.jpg)
 ![](/assets/images/437second/437secondapt4pic2.jpg)
