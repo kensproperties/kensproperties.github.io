@@ -60,20 +60,24 @@ Here are but a few of the advantages of living in this home. This house must be 
 * stainless steel Maytag dishwasher
 * stainless steel, Thermador brand range with gas cook top and electric self cleaning, convection oven.
 * Disposal.
-
-Kitchen opens to AZEK deck, brick patio and private, fenced back yard.  That patio was crafted to architectural specifications and remains flat as a tortilla since installation in 1993.
-Golden, natural wood foyer with wrap around stairway. Professionally restored, antique walnut wardrobe functions as a coat closet. Beautiful!
-Lovely hardwood floors in some rooms and carpet in others. Historic refinished pine floor in two bedroom evokes a bygone era. Abundance of custom wallpaper and recent paint throughout.
-High efficiency central A/C and gas-fired, forced air furnace provide for low utility bills.
-Updated wiring and plumbing throughout.  New electrical panel.
-• Driveway with room for 3 cars. 
-Quiet, safe and friendly neighborhood with very little traffic and no yappy dogs.
-Mature spruce trees privatize the landscaped back yard enclosed by a custom six-foot privacy fence.
-House has been smoke free for over forty years.
+* Kitchen opens to AZEK deck, brick patio and private, fenced back yard.  That patio was crafted to architectural specifications and remains flat as a tortilla since installation in 1993.
+* Golden, natural wood foyer with wrap around stairway. 
+* Professionally restored, antique walnut wardrobe functions as a coat closet. Beautiful!
+* Lovely hardwood floors in some rooms and carpet in others. 
+* Historic refinished pine floor in two bedroom evokes a bygone era. 
+* Abundance of custom wallpaper and recent paint throughout.
+* High efficiency central A/C and gas-fired, forced air furnace provide for low utility bills.
+* Updated wiring and plumbing throughout.  New electrical panel.
+* Driveway with room for 3 cars. 
+* Quiet, safe and friendly neighborhood with very little traffic and no yappy dogs.
+* Mature spruce trees privatize the landscaped back yard.
+* Back yard enclosed by a custom six-foot privacy fence.
 • Brand name, modern washer and gas dryer in basement.
 
 
 ### Smoke Free & Pet Free Environment
+
+* House has been smoke free for over forty years.
 * No animals and no smoking on the property, including on the front porch and in the yard.  I like animals, don’t get me wrong.  Had a cat since I was two years old.  But, no to this.  Everyone is happier.
 * No yappy dogs disturbing your tranquility.  I like dogs, yeah.  But I do not like being kept awake at night listening to them bark.  Or have the peace of my home corrupted by them.
 
