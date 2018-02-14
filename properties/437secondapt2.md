@@ -15,6 +15,7 @@ layout: page
 * Full bath with claw foot tub with shower.
 * Large closet with shelves.
 * Cutting board countertop in kitchen.
+* Insulated glass windows.
 
 ![](/assets/images/437second/437secondapt2pic1.jpg)
 ![](/assets/images/437second/437secondapt2pic2.jpg)
