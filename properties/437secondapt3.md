@@ -14,6 +14,7 @@ layout: page
 * 2 large closet with shelves, one walk in.
 * Living room with clear finished, wider board maple floors.
 * Full bath with claw foot tub with shower.
+* Insulated glass windows.
 
 ![](/assets/images/437second/437secondapt3pic1.jpg)
 ![](/assets/images/437second/437secondapt3pic2.jpg)
