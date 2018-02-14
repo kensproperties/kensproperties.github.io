@@ -45,14 +45,17 @@ Ideal for mature students and young professionals, as there are a total of only 
 Free heat and water, included in the reasonable rent.
 
 ### Laundry
-Convenient, modern, well-kept coin operated washer and dryer in basement.  Modern, clean equipment.
+* Convenient, modern, well-kept coin operated washer and dryer in basement.  
+* Modern, clean equipment.
 
 ### Smoke Free & Pet Free Environment
-No animals and no smoking on the property, including on the front porch and in the yard.  I like animals, don’t get me wrong.  Had a cat since I was two years old.  But, no to this.  Everyone is happier.
+* Building has been smoke free since 1995.  No smoking on the entire property.
+* No animals. I like animals, don’t get me wrong.  Had a cat since I was two years old.  But, no to this.  Everyone is happier.
 
 ### Parking
 * There are up to two spaces available on site.
-* University of Michigan owned and operated designated yellow lot one half block away.  Please call University Parking Office for details.
+* University of Michigan owned and operated designated yellow lot one-half block away.  Please call University Parking Office for details.
+* University of Michigan owned and operated designated blue lot structure one block away.  2.5 minutes walk. Please call University Parking Office for details.
 
 ### Rent
 Rent is competitive according to Rentometer.com. Please contact me for rent rate along with current and future availability.
