@@ -72,7 +72,7 @@ Here are but a few of the advantages of living in this home. This house must be 
 * Quiet, safe and friendly neighborhood with very little traffic and no yappy dogs.
 * Mature spruce trees privatize the landscaped back yard.
 * Back yard enclosed by a custom six-foot privacy fence.
-• Brand name, modern washer and gas dryer in basement.
+* Brand name, modern washer and gas dryer in basement.
 
 
 ### Smoke Free & Pet Free Environment
