@@ -78,10 +78,13 @@ No noisy, crowded elevators to wait for with strangers.
 
 ### Utilities
 
-• HEAT IS FREE!!!  
-• Each apartment has its own thermostat that you can control.
-• Water is included in the rent.
-• All apartments are air-conditioned and have at least one ceiling fan.
+* HEAT IS FREE!!!
+
+* Each apartment has its own thermostat that you can control.
+
+* Water is included in the rent.
+
+* All apartments are air-conditioned and have at least one ceiling fan.
 
 
 ### Laundry 
