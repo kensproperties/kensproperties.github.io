@@ -4,6 +4,11 @@ layout: page
 
 ## Testimonials
 
+> Loved my time at 621 S. Division. Property was well maintained + other tenants were quiet- perfect for finishing up my Master's! Ken was super responsive and addressed issues quickly.  Once again, thank you for everything! 
+>
+> -Ellie Barton, Graduate Student, University of Michigan
+
+<hr>
 
 > Thanks for everything.  Your place was a great (and safe) place for (my daughter) to finish her degree. Happy to be a reference if you ever need one.
 >
