@@ -40,10 +40,13 @@ Exceptional landlord with references.
 
 Small, five unit building is occupied by mature tenants.
 
-Landlord motivated to sign multiple a year lease.  
+Landlord motivated to sign multiple year lease.  
 
 
-
+![](/assets/images/621division/621apt5pic5.jpg)
+![](/assets/images/621division/621apt5pic6.jpg)
+![](/assets/images/621division/621apt5pic7.jpg)
+![](/assets/images/621division/621apt5pic8.jpg)
 ![](/assets/images/621division/621apt5pic1.jpg)
 ![](/assets/images/621division/621apt5pic3.jpg)
 ![](/assets/images/621division/621apt5pic4.jpg)
