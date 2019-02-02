@@ -30,11 +30,9 @@ The back yard is private with a deck for lounging or cooking out.
 
 Modern laundry on site. 
 
-5 minutes walk to all the shops, restaurants and cafes in downtown Ann Arbor and campus.  
-
-8 minutes walk to Bill’s Beer Garden.
-
-12 minutes walk to all the shops and activities of Kerrytown Marketplace.
+* 5 minutes walk to all the shops, restaurants and cafes in downtown Ann Arbor and campus.  
+* 8 minutes walk to Bill’s Beer Garden.
+* 12 minutes walk to all the shops and activities of Kerrytown Marketplace.
 
 This is a pet free and smoke free property.  
 
