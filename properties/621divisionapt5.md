@@ -6,11 +6,11 @@ layout: page
 ### Description:
 
 
-2 blocks to Law School,
-3 blocks to Business School,
-3 blocks to Diag,
-4 blocks to downtown,
-7 blocks to Kerrytown.
+* 2 blocks to Law School,
+* 3 blocks to Business School,
+* 3 blocks to Diag,
+* 4 blocks to downtown,
+* 7 blocks to Kerrytown.
 
 Location is everything.
 
