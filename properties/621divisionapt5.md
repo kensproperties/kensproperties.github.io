@@ -14,11 +14,6 @@ layout: page
 * Two bedroom closets.
 * Full ceramic bath with ceramic tile shower.
 
-![](/assets/images/621division/621 #5 BR 1.jpg)
-![](/assets/images/621division/621apt5pic1.jpg)
-![](/assets/images/621division/621apt5pic2.jpg)
-
-![](/assets/images/621division/621apt5pic2.jpg)
 ![](/assets/images/621division/621apt5pic1.jpg)
 ![](/assets/images/621division/621apt5pic3.jpg)
 ![](/assets/images/621division/621apt5pic4.jpg)
