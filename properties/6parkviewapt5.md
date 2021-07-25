@@ -8,9 +8,9 @@ layout: page
 * Unfurnished.  No pictures available.  Layout identical to all other apartments.
 * Approximately 650 square feet.
 * Large kitchen with eating area, closet and disposal.
-* Ceramic tile kitchen floor.
+* Ceramic tile kitchen and bathroom floor.
 * Large living room with room for dining table and/or desk area.
-* Real hardwood floors in living room, hallway and bedroom, like apartment 4.
+* Real, architecture grade, premium oak hardwood floors throughout living room, hallway, closets and bedroom.
 * Full bath with tub and shower.
 * Two hallway closets.
 * Large bedroom with large clothes closet accessed by sliding doors in track attached on top and bottom with mirrored surface.
