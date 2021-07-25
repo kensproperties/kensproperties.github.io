@@ -7,12 +7,11 @@ layout: page
 ## Office 100
 ### Description
 
-* Approximately 250 square feet
+* Approximately 270 square feet
 * Carpeted
 * Lower level, cool in summer. Dry all seasons.
-* Three windows
+* Lots of natural light
 * Separate thermostat to control heat.
-* No air-conditioning and it has never needed it.
 
 ![](/assets/images/342offices/342office100pic1.jpg)
 
