@@ -7,7 +7,7 @@ layout: page
 
 * Unfurnished. Furnishings pictured belong to former tenant. Layout identical to all other apartments.
 * Approximately 650 square feet.
-* Real hardwood floors throughout living room, hallway and bedroom.
+* Real, architecture grade, premium oak hardwood floors throughout living room, hallway, closets and bedroom.
 * Large kitchen with eating area, closet and disposal.
 * Granite counter tops.
 * Bosch dishwasher.
