@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### 621 Division St , Ann Arbor, MI  48104
+### 621 Division Street , Ann Arbor, MI  48104
 Five, one bedroom apartments.  The apartment building is located at 621 South Division Street in Ann Arbor between Hill Street and Madison Streets.
 
 |[Apartment 1](/properties/621divisionapt1)| [Apartment 2](/properties/621divisionapt2)| [Apartment 3](/properties/621divisionapt3)|[Apartment 4](/properties/621divisionapt4)| [Apartment 5](/properties/621divisionapt5)|
@@ -20,7 +20,7 @@ Five, one bedroom apartments.  The apartment building is located at 621 South Di
 * 6 minutes walk to all the campus commercial activity, night spots, places to eat and to meet friends.
 * 10 minutes walk to Kerrytown commercial district.
 
-### Perfect for someone:
+### Perfect For Someone:
 * Who is working downtown or at University of Michigan.
 * Who wants to enjoy all that Ann Arbor has to offer. 
 * Who is a medical resident.
@@ -30,9 +30,9 @@ Five, one bedroom apartments.  The apartment building is located at 621 South Di
 ### Outstanding Features 
 This lovely, circa 1920, historic charming building has been lovingly restored and maintained by the owner/manager since it’s purchase in 1995.   There are only five apartments in the building occupied by mature tenants.
 
-Ideal for mature students and young professionals, as there are a total of only five apartments in the building occupied by courteous, respectful tenants. 
+Ideal for mature students and professionals, as there are a total of only five apartments in the building occupied by courteous, respectful tenants. 
 
-* Apartments are very bright with numerous large windows.
+* Apartments are very bright with numerous large insulated glass windows.
 * Custom brand name,  aluminum blinds. 
 * Custom, white enamel self storing top-of-the-line storm windows.  
 * Abundance of closet space.   
