@@ -15,7 +15,6 @@ layout: page
 * Full ceramic bath with ceramic tile shower.
 
 ![](/assets/images/621division/621apt4pic1.jpg)
-![](/assets/images/621division/621apt4pic2.jpg)
 ![](/assets/images/621division/621apt4pic3.jpg)
 ![](/assets/images/621division/621apt4pic4.jpg)
 ![](/assets/images/621division/621apt4pic5.jpg)
