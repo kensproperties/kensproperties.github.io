@@ -65,6 +65,8 @@ Built in approximately 1900. If you listen closely, you can still hear the grain
 
 All repairs and improvements have been executed with long-term thinking, with permanent materials and with respect for the historic nature of the building and neighborhood.
 
+Updated insulated glass windows.
+
 Apartments 1, 2 and 3 sport antique, wide board, clear finished maple hardwood floors. You cannot buy this anymore.  It has to be custom made.  Apartment #4 is carpeted with commercial grade carpet.
 
 Great attention has been paid to maintain the historic detail of the building’s interior.
