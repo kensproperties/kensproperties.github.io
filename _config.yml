@@ -7,3 +7,5 @@ description4: Pet free and smoke free properties.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-maps
