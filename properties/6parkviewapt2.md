@@ -24,8 +24,8 @@ layout: page
 ![](/assets/images/6parkview/6apt2pic3.jpg)
 ![](/assets/images/6parkview/6apt2pic4.jpg)
 ![](/assets/images/6parkview/6apt2pic5.jpg)
-![](/assets/images/6parkview/6apt2pic6.jpg)
-![](/assets/images/6parkview/6apt2pic7.jpg)
-![](/assets/images/6parkview/6apt2pic8.jpg)
+![](/assets/images/6parkview/6apt2pic6.jpeg)
+![](/assets/images/6parkview/6apt2pic7.jpeg)
+![](/assets/images/6parkview/6apt2pic8.jpeg)
 
 [back](/)
