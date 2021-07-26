@@ -4,6 +4,18 @@ layout: page
 
 ## Testimonials
 
+> Ken was always responsive and he was always ready to help tenants and resolve issues quickly. He is an honest and trustworthy landlord that cares about his properties. The apartment was perfect and quiet for studying, as well as working virtually. As a woman living alone; I felt safe and it felt like a true home. 
+>
+> -Ph. D.  Candidate, University of Michigan
+
+<hr>
+
+> I've rented from Ken for the last 4 years and had an awesome experience. The property, 621 S. Division Street, is really well-maintained and in a fantastic location. The other tenants in the building have all been friendly and considerate. Ken is super easy to get a hold of and when any issues came up, he solved them immediately. If I weren't moving out of state, I would rent from Ken again in an instant. 
+>
+> -Psychology Ph. D.  Graduate, University of Michigan
+
+<hr>
+
 > Loved my time at 621 S. Division. Property was well maintained + other tenants were quiet- perfect for finishing up my Master's! Ken was super responsive and addressed issues quickly.  Once again, thank you for everything! 
 >
 > -Ellie Barton, Graduate Student, University of Michigan
