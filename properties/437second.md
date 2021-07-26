@@ -91,7 +91,7 @@ No noisy, crowded elevators to wait for with strangers.
 
 * Clean, modern, well kept coin-operated washer and dryer are available for use in the basement.
 
-* Smoke Free & Pet Free Environment
+### Smoke Free & Pet Free Environment 
 
 * No smoking and not pets on the property, including on the front porch and in the yard.  I like animals, don’t get me wrong.  Had a cat since I was two years old.  But, no to this.  Everyone is happier.
 
