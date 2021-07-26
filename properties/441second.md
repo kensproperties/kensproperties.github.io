@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### 441 Second St, Ann Arbor, MI  48103
+### 441 Second Street, Ann Arbor, MI  48103
 Single family home
 
 ### Location, Location,  LOCATION
@@ -56,9 +56,9 @@ Here are but a few of the advantages of living in this home. This house must be 
 * Small office with covered exterior porch on second floor.
 * Living room, dining room, mud-set tile bath, office, parlor, foyer on first floor.
 * Hand crafted, modern kitchen on first floor.
-* European wood-burning stove
-* stainless steel Maytag dishwasher
-* stainless steel, Thermador brand range with gas cook top and electric self cleaning, convection oven.
+* European wood-burning stove in kitchen.
+* Stainless steel brand-name dishwasher. 
+* Stainless steel, Thermador brand range with gas cook top and electric self-cleaning, convection oven.
 * Disposal.
 * Kitchen opens to AZEK deck, brick patio and private, fenced back yard.  That patio was crafted to architectural specifications and remains flat as a tortilla since installation in 1993.
 * Golden, natural wood foyer with wrap around stairway. 
@@ -73,6 +73,7 @@ Here are but a few of the advantages of living in this home. This house must be 
 * Mature spruce trees privatize the landscaped back yard.
 * Back yard enclosed by a custom six-foot privacy fence.
 * Brand name, modern washer and gas dryer in basement.
+* Ceiling fans with light in all bedrooms, living room and parlor.  These fans are Casablanca brand named, reversable with remote control.
 
 
 ### Smoke Free & Pet Free Environment
