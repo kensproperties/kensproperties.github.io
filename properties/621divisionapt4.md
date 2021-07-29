@@ -20,5 +20,7 @@ layout: page
 ![](/assets/images/621division/621apt4pic5.jpg)
 ![](/assets/images/621division/621apt4pic6.jpg)
 ![](/assets/images/621division/621apt4pic7.jpg)
+![](/assets/images/621division/621apt4pic8.jpg)
+![](/assets/images/621division/621apt4pic9.jpg)
 
 [back](/)
