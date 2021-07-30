@@ -9,3 +9,10 @@ google_analytics:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-maps
+maps:
+  google:
+    api_key: AIzaSyBDJgoT6bxTxdr-PvmTYd99HsGnggJNVqk
+    
+location:
+  latitude: 51.5285582
+  longitude: -0.2416807
