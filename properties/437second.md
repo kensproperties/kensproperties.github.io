@@ -52,7 +52,6 @@ Containing a central elementary school, the OWS is a delightful mix
 of families of all ages, apartments, single family homes and long
 term residents.
 
-
 ### Outstanding Features
 
 No noisy elevators to wait for crowded with strangers.
@@ -67,7 +66,7 @@ All repairs and improvements have been executed with long-term thinking, with pe
 
 Updated insulated glass windows.
 
-Apartments 1, 2 and 3 sport antique, wide board, clear finished maple hardwood floors. You cannot buy this anymore.  It has to be custom made.  Apartment #4 is carpeted with commercial grade carpet.
+All apartments sport 3” wide board, clear finished maple hardwood floors.
 
 Great attention has been paid to maintain the historic detail of the building’s interior.
 
@@ -77,17 +76,12 @@ Back yard: Well maintained, large, private grassy lawn ideal for relaxing, cooki
 
 No noisy, crowded elevators to wait for with strangers.
 
-
 ### Utilities
 
 * HEAT IS FREE!!!
-
 * Each apartment has its own thermostat that you can control.
-
 * Water is included in the rent.
-
 * All apartments are air-conditioned and have at least one ceiling fan.
-
 
 ### Laundry 
 
@@ -95,7 +89,8 @@ No noisy, crowded elevators to wait for with strangers.
 
 ### Smoke Free & Pet Free Environment 
 
-* No smoking and not pets on the property, including on the front porch and in the yard.  I like animals, don’t get me wrong.  Had a cat since I was two years old.  But, no to this.  Everyone is happier.
+* Building has been smoke free since 1992.
+* No animals. I like animals, don’t get me wrong. Had a cat since I was two years old. But, no to this. Everyone is happier.
 
 ### Parking
 
