@@ -41,6 +41,8 @@ layout: page
 <hr>
 
 > Ken has been a great landlord over the last two years I have been here. He was very accommodating from the onset regarding my interest in renting the apartment (while I was looking from afar). He keeps the place up to date in so far as possible and addresses issues rapidly. For example he put in a new cutting block, fridge, and oven/stove before I even moved into the apartment. He’s made updates since including a new LED light in the kitchen. He works with a team to make sure that the tenants needs are met and he is very friendly. I would highly recommend living in Ken’s places. Overall one of the best landlords I’ve had.
+> 
+> -Graduating Ph.D. student   
 
 <hr>
 
