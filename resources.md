@@ -7,8 +7,8 @@ layout: page
 
 **Forms**<br/>
 
-* [Application (PDF)](/assets/rights-and-duties.pdf)
-* [Sample Lease](/assets/rights-and-duties.pdf)
+* [Application (PDF)](/assets/Application_doc.pdf)
+* [Sample Lease](/assets/Sample_Lease.pdf)
 
 **Helpful Links**<br/>
 
