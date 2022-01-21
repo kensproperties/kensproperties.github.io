@@ -8,8 +8,20 @@ Please Note:
 1)  All properties and apartments are smoke free and pet free environments.
 2)  A $75 fee is requested to be paid in conjunction with this application.  Applicant permits and allows landlord to purchase a credit report to and to contact current and former landlords for the purpose of establishing a satisfactory record of rent payment.  
 3)  All information provided will remain strictly confidential.
-
 <br>
+<!-- modify this form HTML and place wherever you want your form -->
+<form action="https://formspree.io/f/mvolzdgq" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
 I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge.  
 
