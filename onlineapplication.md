@@ -4,23 +4,55 @@ layout: page
 
 ## Online Application
 
-Please Note:
-1)  All properties and apartments are smoke free and pet free environments.
-2)  A $75 fee is requested to be paid in conjunction with this application.  Applicant permits and allows landlord to purchase a credit report to and to contact current and former landlords for the purpose of establishing a satisfactory record of rent payment.  
-3)  All information provided will remain strictly confidential.
+Please Note:<br/>
+1. All properties and apartments are smoke free and pet free environments.
+2. A $75 fee is requested to be paid in conjunction with this application.  Applicant permits and allows landlord to purchase a credit report to and to contact current and  former landlords for the purpose of establishing a satisfactory record of rent payment.  
+3. All information provided will remain strictly confidential.
 <br>
 <!-- modify this form HTML and place wherever you want your form -->
 <form action="https://formspree.io/f/mvolzdgq" method="POST">
+  <input type="hidden" name="_subject" value="Online Application from Website" />
   <label>
-    Your email:
-    <input type="email" name="_replyto">
+    Property Address:
+    <textarea name="_propertyAddress" required></textarea>
   </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+<label>
+  Date:
+<input type="date" name="_todaysDate" min="2022-01-01" max="2099-12-31" required/>
+</label>
+  <br/>
+<label>
+    Rental Rate:
+    <input type="number" name="_rentalRate" min="1" max="3000" required/>
+</label>
+<label>
+    Lease Term:
+    <input type="number" name="_leaseTerm" min="1" max="60" required/>
+</label>
+<label>
+  Date to Start:
+<input type="date" name="_dateToStart" min="2022-01-01" max="2099-12-31" required/>  
+</label>
+  <br/>
+<label>
+  Applicant's Name:
+<input type="text" name="_applicantsName" required/>  
+</label>  
+<label>
+  Date of Birth:
+<input type="date" name="_dateOfBirth" required/>  
+</label>
+  <br/>
+<label>
+  Social Security #:
+<input type="text" name="_socialSecurityNumber" required/>  
+</label>  
+  <br/>
+<label>
+  E-Mail Address:
+  <input type="email" name="_emailAddress" required />    
+</label>    
+  <button type="submit">Submit</button>
 </form>
 
 I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge.  
