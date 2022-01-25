@@ -14,57 +14,75 @@ Please Note:<br/>
   <input type="hidden" name="_subject" value="Online Application from Website" />
   <table>
     <tr>
-      <td>
-  <label>
-    Property Address:
-  </label>    
-    </td>
-      <td>
-    <textarea name="_propertyAddress" required></textarea>
+      <td valign='top'>
+        <label>Property Address:</label>
+      </td>
+      <td colspan='3'>
+        <textarea name="_propertyAddress" required></textarea>
       </td>
       <td>
-<label>
-  Date:
-        </label>
+        <label>Date:</label>
       </td>
       <td>
-<input type="date" name="_todaysDate" min="2022-01-01" max="2099-12-31" required/>
+        <input type="date" name="_todaysDate" min="2022-01-01" max="2099-12-31" required/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <label>Rental Rate:</label>
+      </td>
+      <td>
+        <input type="number" name="_rentalRate" min="1" max="3000" required/>
+      </td>
+      <td>
+        <label>Lease Term:</label>
+      </td>
+      <td>
+        <input type="number" name="_leaseTerm" min="1" max="60" required/>
+      </td>
+      <td>
+        <label>Date to Start:</label>
+      </td>
+      <td>
+        <input type="date" name="_dateToStart" min="2022-01-01" max="2099-12-31" required/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <label>Applicant's Name:</label>
+      </td>
+      <td colspan='3'>
+        <input type="text" name="_applicantsName" required/>
+      </td>
+      <td>
+        <label>Date of Birth:</label>
+      </td>
+      <td>
+        <input type="date" name="_dateOfBirth" required/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <label>Social Security #:</label>
+      </td>
+      <td colspan='5'>
+        <input type="text" name="_socialSecurityNumber" required/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <label>E-Mail Address:</label>
+      </td>
+      <td colspan='5'>
+        <input type="email" name="_emailAddress" required />
+      </td>
+    </tr>
+    <tr>
+      <td colspan='6' align='center'>
+        <button type="submit">Submit</button>        
       </td>
     </tr>
   </table>
-  <br/>
-<label>
-    Rental Rate:
-    <input type="number" name="_rentalRate" min="1" max="3000" required/>
-</label>
-<label>
-    Lease Term:
-    <input type="number" name="_leaseTerm" min="1" max="60" required/>
-</label>
-<label>
-  Date to Start:
-<input type="date" name="_dateToStart" min="2022-01-01" max="2099-12-31" required/>  
-</label>
-  <br/>
-<label>
-  Applicant's Name:
-<input type="text" name="_applicantsName" required/>  
-</label>  
-<label>
-  Date of Birth:
-<input type="date" name="_dateOfBirth" required/>  
-</label>
-  <br/>
-<label>
-  Social Security #:
-<input type="text" name="_socialSecurityNumber" required/>  
-</label>  
-  <br/>
-<label>
-  E-Mail Address:
-  <input type="email" name="_emailAddress" required />    
-</label>    
-  <button type="submit">Submit</button>
 </form>
 
 I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge.  
