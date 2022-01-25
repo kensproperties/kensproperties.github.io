@@ -20,68 +20,82 @@ Please Note:<br/>
       <td colspan='3'>
         <textarea name="_propertyAddress" required></textarea>
       </td>
-      <td>
+      <td valign='top' align='right'>
         <label>Date:</label>
       </td>
-      <td>
+      <td valign='top' align='left'>
         <input type="date" name="_todaysDate" min="2022-01-01" max="2099-12-31" required/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td valign='top' align='right'>
         <label>Rental Rate:</label>
       </td>
-      <td>
+      <td valign='top' align='left'>
         <input type="number" name="_rentalRate" min="1" max="3000" required/>
       </td>
-      <td>
+      <td valign='top' align='right'>
         <label>Lease Term:</label>
       </td>
-      <td>
+      <td valign='top' align='left'>
         <input type="number" name="_leaseTerm" min="1" max="60" required/>
       </td>
-      <td>
+      <td valign='top' align='right'>
         <label>Date to Start:</label>
       </td>
-      <td>
+      <td valign='top' align='left'>
         <input type="date" name="_dateToStart" min="2022-01-01" max="2099-12-31" required/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td valign='top' align='right'>
         <label>Applicant's Name:</label>
       </td>
-      <td colspan='3'>
+      <td colspan='3' valign='top' align='left'>
         <input type="text" name="_applicantsName" required/>
       </td>
-      <td>
+      <td valign='top' align='right'>
         <label>Date of Birth:</label>
       </td>
-      <td>
-        <input type="date" name="_dateOfBirth" required/>
+      <td valign='top' align='left'>
+        <input type="date" name="_dateOfBirth" max="2099-12-31" required/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td valign='top' align='right'>
         <label>Social Security #:</label>
       </td>
-      <td colspan='5'>
+      <td colspan='5' valign='top' align='left'>
         <input type="text" name="_socialSecurityNumber" required/>
       </td>
     </tr>
     <tr>
-      <td>
+      <td valign='top' align='right'>
         <label>E-Mail Address:</label>
       </td>
-      <td colspan='5'>
+      <td colspan='5' valign='top' align='left'>
         <input type="email" name="_emailAddress" required />
+      </td>
+    </tr>
+    <tr>
+      <td  valign='top' align='right'>
+        <label>Present Address:</label>
+      </td>
+      <td colspan='3' valign='top' align='left'>
+        <textarea name="_presentAddress" required></textarea>
+      </td>
+      <td valign='top' align='right'>
+        <label>City:</label>
+      </td>
+      <td valign='top' align='left'>
+        <input type="text" name="_presentAddressCity" required/>
       </td>
     </tr>
     <tr>
       <td colspan='6' align='center'>
         <button type="submit">Submit</button>        
       </td>
-    </tr>
+    </tr>    
   </table>
 </form>
 
