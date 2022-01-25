@@ -282,13 +282,13 @@ Please Note:<br/>
         <label>State:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="text" name="_emergencyContactState" required/>
+        <input type="text" name="_emergencyContactState" size="5" required/>
       </td>
       <td valign='top'>
         <label>Zip:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="number" name="_emergencyContactZip" required/>
+        <input type="number" style="width: 5em" maxlength="5" name="_emergencyContactZip" required/>
       </td>
     </tr>
     <tr>
