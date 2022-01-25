@@ -82,7 +82,7 @@ Please Note:<br/>
         <label>Present Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <textarea width="100%" name="_presentAddress" required></textarea>
+        <input type="text" name="_presentAddress" required></input>
       </td>
       <td valign='top' align='right'>
         <label>City:</label>
@@ -117,18 +117,40 @@ Please Note:<br/>
         </table>
       </td>
       <td valign='top' align='right'>
-        <label>Phone:</label>
+        <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
         <input type="text" name="_presentAddressPhone" required/>
       </td>      
     </tr>
     <tr>
+      <td valign='top' align='right'>
+        <label>Present Landlord:</label>
+      </td>
+      <td valign='top' align='left' colspan='3'>
+        <input type="text" name="_presentLandlord" required/>
+      </td>
+      <td valign='top' align='right'>
+        <label>Phone #:</label>
+      </td>      
+      <td valign='top' align='left'>
+        <input type="text" name="_presentLandlordPhone" required/>
+      </td>     
+    </tr>
+    <tr>
+      <td valign='top' align='right'>
+        <label>E-Mail Address:</label>
+      </td>
+      <td colspan='5' valign='top' align='left'>
+        <input type="email" name="__presentLandlordEmailAddress" required />
+      </td>
+    </tr>    
+    <tr>
       <td  valign='top' align='right'>
         <label>Previous Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <textarea width="100%" name="_previousAddress" required></textarea>
+        <input type="text" name="_previousAddress" required></input>
       </td>
       <td valign='top' align='right'>
         <label>City:</label>
@@ -169,6 +191,106 @@ Please Note:<br/>
         <input type="text" name="_previousAddressPhone" required/>
       </td>      
     </tr>
+    <tr>
+      <td valign='top' align='right'>
+        <label>Present Landlord:</label>
+      </td>
+      <td valign='top' align='left' colspan='3'>
+        <input type="text" name="_previousLandlord" required/>
+      </td>
+      <td valign='top' align='right'>
+        <label>Phone #:</label>
+      </td>      
+      <td valign='top' align='left'>
+        <input type="text" name="_previousLandlordPhone" required/>
+      </td>     
+    </tr>
+    <tr>
+      <td valign='top' align='right'>
+        <label>E-Mail Address:</label>
+      </td>
+      <td colspan='5' valign='top' align='left'>
+        <input type="email" name="__previousLandlordEmailAddress" required />
+      </td>
+    </tr>
+    <tr>
+      <td valign='top' align='right'>
+        <label>Driver License #:</label>
+      </td>
+      <td colspan='5' valign='top' align='left'>
+        <input type="text" name="_driversLicenseNumber" required/>
+      </td>
+    </tr>    
+    <tr>
+      <td valign='top' align='right'>
+        <label>Employer:</label>
+      </td>
+      <td valign='top' align='left' colspan='3'>
+        <input type="text" name="_employer" required/>
+      </td>
+      <td valign='top' align='right'>
+        <label>Phone #:</label>
+      </td>      
+      <td valign='top' align='left'>
+        <input type="text" name="_employerPhone" required/>
+      </td>     
+    </tr>
+    <tr>
+      <td valign='top' align='right'>
+        <label>Salary per year:</label>
+      </td>
+      <td valign='top' align='left' colspan='3'>
+        <input type="number" name="_salaryPerYear" required/>
+      </td>      
+      <td valign='top' align='right'>
+        <label>Title:</label>
+      </td>      
+      <td valign='top' align='left'>
+        <input type="text" name="_employmentTitle" required/>
+      </td>     
+    </tr>
+    <tr>
+      <td valign='top' align='right' colspan='2'>
+        <label>Person to notify in case of emergency:</label>
+      </td>
+      <td colspan='4' valign='top' align='left'>
+        <input type="text" name="_emergencyContactName" required />
+      </td>
+    </tr>
+    <tr>
+      <td valign='top' align='right'>
+        <label>Phone #:</label>
+      </td>
+      <td valign='top' align='left'>
+        <input type="text" name="_emergencyContactPhone" required/>
+      </td>
+      <td  valign='top' align='right'>
+        <label>Previous Address:</label>
+      </td>
+      <td colspan='3' valign='top' align='left'>
+        <input type="text" name="_emergencyContactAddress" required></input>
+      </td>
+    </tr>
+    <tr>
+      <td valign='top' align='right'>
+        <label>City:</label>
+      </td>
+      <td valign='top' align='left'>
+        <input type="text" name="_emergencyContactCity" required/>
+      </td>
+      <td valign='top' align='right'>
+        <label>State:</label>
+      </td>
+      <td valign='top' align='left'>
+        <input type="text" name="_emergencyContactState" required/>
+      </td>
+      <td valign='top' align='right'>
+        <label>Zip:</label>
+      </td>
+      <td valign='top' align='left'>
+        <input type="number" name="_emergencyContactZip" required/>
+      </td>
+    </tr>    
     <tr>
       <td colspan='6' align='center'>
         <button type="submit">Submit</button>        
