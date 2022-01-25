@@ -17,7 +17,7 @@ Please Note:<br/>
       <td valign='top'>
         <label>Property Address:</label>
       </td>
-      <td colspan='5'>
+      <td colspan='3'>
         <textarea width="100%" name="_propertyAddress" required></textarea>
       </td>
       <td valign='top' align='right'>
@@ -37,7 +37,7 @@ Please Note:<br/>
       <td valign='top' align='right'>
         <label>Lease Term:</label>
       </td>
-      <td valign='top' align='left' colspan='3'>
+      <td valign='top' align='left'>
         <input type="number" name="_leaseTerm" min="1" max="60" required/>
       </td>
       <td valign='top' align='right'>
@@ -51,7 +51,7 @@ Please Note:<br/>
       <td valign='top' align='right'>
         <label>Applicant's Name:</label>
       </td>
-      <td colspan='5' valign='top' align='left'>
+      <td colspan='3' valign='top' align='left'>
         <input type="text" name="_applicantsName" required/>
       </td>
       <td valign='top' align='right'>
@@ -65,7 +65,7 @@ Please Note:<br/>
       <td valign='top' align='right'>
         <label>Social Security #:</label>
       </td>
-      <td colspan='7' valign='top' align='left'>
+      <td colspan='5' valign='top' align='left'>
         <input type="text" name="_socialSecurityNumber" required/>
       </td>
     </tr>
@@ -73,7 +73,7 @@ Please Note:<br/>
       <td valign='top' align='right'>
         <label>E-Mail Address:</label>
       </td>
-      <td colspan='7' valign='top' align='left'>
+      <td colspan='5' valign='top' align='left'>
         <input type="email" name="_emailAddress" required />
       </td>
     </tr>
@@ -81,7 +81,7 @@ Please Note:<br/>
       <td  valign='top' align='right'>
         <label>Present Address:</label>
       </td>
-      <td colspan='5' valign='top' align='left'>
+      <td colspan='3' valign='top' align='left'>
         <textarea width="100%" name="_presentAddress" required></textarea>
       </td>
       <td valign='top' align='right'>
@@ -92,27 +92,33 @@ Please Note:<br/>
       </td>
     </tr>
     <tr>
-      <td  valign='top' align='right'>
-        <label>State:</label>
-      </td>
-      <td valign='top' align='left' width='30'>
-        <input type="text" name="_presentAddressState" required/>
-      </td>
-      <td valign='top' align='right'>
-        <label>Zip:</label>
-      </td>
-      <td valign='top' align='left' width='60'>
-        <input type="number" name="_presentAddressZip" required/>
-      </td>
-      <td valign='top' align='right'>
-        <label>How Long:</label>
-      </td>
-      <td valign='top' align='left'>
-        <input type="number" width="30" name="_presentAddressHowLong" required/>
+      <td colspan='4'>
+        <table>
+          <tr>
+            <td  valign='top' align='right'>
+              <label>State:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="text" name="_presentAddressState" required/>
+            </td>
+            <td valign='top' align='right'>
+              <label>Zip:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="number" name="_presentAddressZip" required/>
+            </td>
+            <td valign='top' align='right'>
+              <label>How Long:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="number" width="30" name="_presentAddressHowLong" required/>
+            </td>
+          </tr>
+        </table>
       </td>
       <td valign='top' align='right'>
         <label>Phone:</label>
-      </td>
+      </td>      
       <td valign='top' align='left'>
         <input type="text" name="_presentAddressPhone" required/>
       </td>      
@@ -121,7 +127,7 @@ Please Note:<br/>
       <td  valign='top' align='right'>
         <label>Previous Address:</label>
       </td>
-      <td colspan='5' valign='top' align='left'>
+      <td colspan='3' valign='top' align='left'>
         <textarea width="100%" name="_previousAddress" required></textarea>
       </td>
       <td valign='top' align='right'>
@@ -132,33 +138,39 @@ Please Note:<br/>
       </td>
     </tr>
     <tr>
-      <td  valign='top' align='right'>
-        <label>State:</label>
-      </td>
-      <td valign='top' align='left'>
-        <input type="text" name="_previousAddressState" required/>
-      </td>
-      <td valign='top' align='right'>
-        <label>Zip:</label>
-      </td>
-      <td valign='top' align='left'>
-        <input type="number" name="_previousAddressZip" required/>
-      </td>
-      <td valign='top' align='right'>
-        <label>How Long:</label>
-      </td>
-      <td valign='top' align='left'>
-        <input type="number" name="_previousAddressHowLong" required/>
+      <td colspan='4'>
+        <table>
+          <tr>
+            <td  valign='top' align='right'>
+              <label>State:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="text" name="_previousAddressState" required/>
+            </td>
+            <td valign='top' align='right'>
+              <label>Zip:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="number" name="_previousAddressZip" required/>
+            </td>
+            <td valign='top' align='right'>
+              <label>How Long:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="number" name="_previousAddressHowLong" required/>
+            </td>
+          </tr>
+        </table>
       </td>
       <td valign='top' align='right'>
         <label>Phone:</label>
-      </td>
+      </td>      
       <td valign='top' align='left'>
         <input type="text" name="_previousAddressPhone" required/>
       </td>      
-    </tr>    
+    </tr>
     <tr>
-      <td colspan='8' align='center'>
+      <td colspan='6' align='center'>
         <button type="submit">Submit</button>        
       </td>
     </tr>    
