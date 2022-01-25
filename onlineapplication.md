@@ -99,19 +99,19 @@ Please Note:<br/>
               <label>State:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" name="_presentAddressState" required/>
+              <input type="text" size="5" name="_presentAddressState" required/>
             </td>
             <td valign='top' align='right'>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" name="_presentAddressZip" required/>
+              <input type="number" size="5" maxlength="5" name="_presentAddressZip" required/>
             </td>
             <td valign='top' align='right'>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" width="30" name="_presentAddressHowLong" required/>
+              <input type="number" size="5" name="_presentAddressHowLong" required/>
             </td>
           </tr>
         </table>
@@ -150,7 +150,7 @@ Please Note:<br/>
         <label>Previous Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_previousAddress" required></input>
+        <input type="text" name="_previousAddress" required/>
       </td>
       <td valign='top' align='right'>
         <label>City:</label>
@@ -167,19 +167,19 @@ Please Note:<br/>
               <label>State:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" name="_previousAddressState" required/>
+              <input type="text" size="5" name="_previousAddressState" required/>
             </td>
             <td valign='top' align='right'>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" name="_previousAddressZip" required/>
+              <input type="number" size="5" maxlength="5" name="_previousAddressZip" required/>
             </td>
             <td valign='top' align='right'>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" name="_previousAddressHowLong" required/>
+              <input type="number" size="5" name="_previousAddressHowLong" required/>
             </td>
           </tr>
         </table>
