@@ -290,6 +290,42 @@ Please Note:<br/>
       <td valign='top' align='left'>
         <input type="number" name="_emergencyContactZip" required/>
       </td>
+    </tr>
+    <tr>
+      <td colspan='6' align='left'>
+        <label>Name of person/s to occupy apartment:</label>
+      </td>
+    </tr>
+    <tr>
+      <td colspan='6' align='left'>
+        <input type="text" name="_personsOccupyApartment" required width="100%"/>
+      </td>
+    </tr>
+    <tr rowspan='2'>
+      <td colspan='6' align='left'>
+        <label>I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge.</label>
+      </td>
+    </tr>
+    <tr rowspan='2'>
+      <td colspan='6' align='left'>
+        <label>I the undersigned permit the landlord named above or his or her representative(s) to contact any current and/or previous landlord and to discuss with him or her or his or her representatives any and all information pertaining to my tenancy for the purpose of, but not limited to, establishing my rental payment history and care of the rental property.</label>
+      </td>
+    </tr>
+    <tr>
+      <td valign='top' align='left'>
+        <input type="date" name="_dateSigned" min="2022-01-01" max="2099-12-31" required/>
+      </td>
+      <td valign='top' align='left' colspan='5'>
+        <input type="text" name="_applicantSignature" required/>
+      </td>  
+    </tr>
+    <tr>
+      <td valign='top' align='center'>
+        <label>Date</label>
+      </td>
+      <td valign='top' align='center' colspan='5'>
+        <label>Applicant Signature</label>
+      </td>  
     </tr>    
     <tr>
       <td colspan='6' align='center'>
@@ -298,10 +334,6 @@ Please Note:<br/>
     </tr>    
   </table>
 </form>
-
-I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge.  
-
-I the undersigned permit the landlord named above or his or her representative(s) to contact any current and/or previous landlord and to discuss with him or her or his or her representatives any and all information pertaining to my tenancy for the purpose of, but not limited to, establishing my rental payment history and care of the rental property.
 
 
 DISCRIMINATION<br/>
