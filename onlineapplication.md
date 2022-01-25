@@ -12,14 +12,26 @@ Please Note:<br/>
 <!-- modify this form HTML and place wherever you want your form -->
 <form action="https://formspree.io/f/mvolzdgq" method="POST">
   <input type="hidden" name="_subject" value="Online Application from Website" />
+  <table>
+    <tr>
+      <td>
   <label>
     Property Address:
+  </label>    
+    </td>
+      <td>
     <textarea name="_propertyAddress" required></textarea>
-  </label>
+      </td>
+      <td>
 <label>
   Date:
+        </label>
+      </td>
+      <td>
 <input type="date" name="_todaysDate" min="2022-01-01" max="2099-12-31" required/>
-</label>
+      </td>
+    </tr>
+  </table>
   <br/>
 <label>
     Rental Rate:
