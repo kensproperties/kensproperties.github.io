@@ -101,7 +101,7 @@ Please Note:<br/>
       <td valign='top' align='right'>
         <label>Zip:</label>
       </td>
-      <td valign='top' align='left'' width='60'>
+      <td valign='top' align='left' width='60'>
         <input type="number" name="_presentAddressZip" required/>
       </td>
       <td valign='top' align='right'>
