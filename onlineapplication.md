@@ -12,7 +12,7 @@ Please Note:<br/>
 <!-- modify this form HTML and place wherever you want your form -->
 <form action="https://formspree.io/f/mvolzdgq" method="POST">
   <input type="hidden" name="_subject" value="Online Application from Website" />
-  <table>
+  <table style-"border: 1px solid black;">
     <tr>
       <td valign='top'>
         <label>Property Address:</label>
@@ -311,7 +311,7 @@ Please Note:<br/>
         <label>I the undersigned permit the landlord named above or his or her representative(s) to contact any current and/or previous landlord and to discuss with him or her or his or her representatives any and all information pertaining to my tenancy for the purpose of, but not limited to, establishing my rental payment history and care of the rental property.</label>
       </td>
     </tr>
-    <tr>
+    <tr rowspan='2'>
       <td valign='top' align='left'>
         <input type="date" name="_dateSigned" min="2022-01-01" max="2099-12-31" required/>
       </td>
