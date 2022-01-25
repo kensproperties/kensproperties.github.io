@@ -105,13 +105,13 @@ Please Note:<br/>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" size="5" maxlength="5" name="_presentAddressZip" required/>
+              <input type="number" style="width: 5em" maxlength="5" name="_presentAddressZip" required/>
             </td>
             <td valign='top'>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" size="5" name="_presentAddressHowLong" required/>
+              <input type="number" style="width: 5em" name="_presentAddressHowLong" required/>
             </td>
           </tr>
         </table>
@@ -173,13 +173,13 @@ Please Note:<br/>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" size="5" maxlength="5" name="_previousAddressZip" required/>
+              <input type="number" style="width: 5em" maxlength="5" name="_previousAddressZip" required/>
             </td>
             <td valign='top'>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" size="5" name="_previousAddressHowLong" required/>
+              <input type="number" style="width: 5em" name="_previousAddressHowLong" required/>
             </td>
           </tr>
         </table>
@@ -268,7 +268,7 @@ Please Note:<br/>
         <label>Previous Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_emergencyContactAddress" required></input>
+        <input type="text" name="_emergencyContactAddress" required/>
       </td>
     </tr>
     <tr>
