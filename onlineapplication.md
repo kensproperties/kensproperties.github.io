@@ -12,7 +12,7 @@ Please Note:<br/>
 <!-- modify this form HTML and place wherever you want your form -->
 <form action="https://formspree.io/f/mvolzdgq" method="POST">
   <input type="hidden" name="_subject" value="Online Application from Website" />
-  <table style-"border: 1px solid black;">
+  <table style="border: 1px solid black;">
     <tr>
       <td valign='top'>
         <label>Property Address:</label>
@@ -264,8 +264,8 @@ Please Note:<br/>
       <td valign='top' align='left'>
         <input type="text" name="_emergencyContactPhone" required/>
       </td>
-      <td  valign='top'>
-        <label>Previous Address:</label>
+      <td valign='top'>
+        <label>Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
         <input type="text" name="_emergencyContactAddress" required/>
