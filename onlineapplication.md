@@ -35,7 +35,7 @@ Please Note:<br/>
               <label>Rental Rate:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" name="_rentalRate" min="1" max="3000" required/>&nbsp;&nbsp;&nbsp;
+              <input type="number" name="_rentalRate" min="1" max="3000" required/>&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>Lease Term:</label>
@@ -105,13 +105,13 @@ Please Note:<br/>
               <label>State:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" size="5" name="_presentAddressState" required/>&nbsp;&nbsp;&nbsp;
+              <input type="text" size="5" name="_presentAddressState" required/>&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" maxlength="5" name="_presentAddressZip" required/>&nbsp;&nbsp;&nbsp;
+              <input type="number" style="width: 5em" maxlength="5" name="_presentAddressZip" required/>&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>How Long:</label>
@@ -173,13 +173,13 @@ Please Note:<br/>
               <label>State:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" size="5" name="_previousAddressState" required/>&nbsp;&nbsp;&nbsp;
+              <input type="text" size="5" name="_previousAddressState" required/>&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" maxlength="5" name="_previousAddressZip" required/>&nbsp;&nbsp;&nbsp;
+              <input type="number" style="width: 5em" maxlength="5" name="_previousAddressZip" required/>&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>How Long:</label>
