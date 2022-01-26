@@ -46,7 +46,7 @@ Please Note:<br/>
           </tr>
         </table>
     </td>
-      <td valign='top'>
+      <td valign='top' nowrap>
         <label>Date to Start:</label>
       </td>
       <td valign='top' align='left'>
