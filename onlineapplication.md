@@ -297,13 +297,13 @@ Please Note:<br/>
             <label>City:</label>
           </td>
           <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactCity" />&nbsp;>&nbsp;>&nbsp;
+            <input type="text" name="_emergencyContactCity" />&nbsp;&nbsp;&nbsp;
           </td>
           <td valign='top'>
             <label>State:</label>
           </td>
           <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactState" size="5" />&nbsp;>&nbsp;>&nbsp;
+            <input type="text" name="_emergencyContactState" size="5" />&nbsp;&nbsp;&nbsp;
           </td>
           <td valign='top'>
             <label>Zip:</label>
