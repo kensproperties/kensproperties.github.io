@@ -35,7 +35,7 @@ Please Note:<br/>
               <label>Rental Rate:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" name="_rentalRate" min="1" max="3000" required/>&nbsp;&nbsp;
+              <input type="number" name="_rentalRate" min="1" max="3000" required/>&nbsp;&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>Lease Term:</label>
@@ -105,13 +105,13 @@ Please Note:<br/>
               <label>State:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" size="5" name="_presentAddressState" required/>&nbsp;&nbsp;
+              <input type="text" size="5" name="_presentAddressState" required/>&nbsp;
             </td>
             <td valign='top'>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" maxlength="5" name="_presentAddressZip" required/>&nbsp;&nbsp;
+              <input type="number" style="width: 5em" maxlength="5" name="_presentAddressZip" required/>&nbsp;
             </td>
             <td valign='top'>
               <label>How Long:</label>
@@ -173,13 +173,13 @@ Please Note:<br/>
               <label>State:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" size="5" name="_previousAddressState"/>&nbsp;&nbsp;
+              <input type="text" size="5" name="_previousAddressState"/>&nbsp;
             </td>
             <td valign='top'>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" maxlength="5" name="_previousAddressZip"/>&nbsp;&nbsp;
+              <input type="number" style="width: 5em" maxlength="5" name="_previousAddressZip"/>&nbsp;
             </td>
             <td valign='top'>
               <label>How Long:</label>
@@ -270,18 +270,24 @@ Please Note:<br/>
     </td>
     </tr>
     <tr>
-      <td valign='top'>
-        <label>Phone #:</label>
-      </td>
-      <td valign='top' align='left'>
-        <input type="text" name="_emergencyContactPhone" />
-      </td>
-      <td valign='top'>
-        <label>Address:</label>
-      </td>
-      <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_emergencyContactAddress" />
-      </td>
+      <td colspan='6' cellspacing='0' cellpadding='0'>
+        <table cellspacing='0' cellpadding='0'>
+          <tr>
+            <td valign='top'>
+              <label>Phone #:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="text" name="_emergencyContactPhone" />&nbsp;&nbsp;
+            </td>
+            <td valign='top'>
+              <label>Address:</label>
+            </td>
+            <td colspan='3' valign='top' align='left'>
+              <input type="text" size='15' name="_emergencyContactAddress" />
+            </td>
+          </tr>
+        </table>
+    </td>
     </tr>
     <tr>
       <td colspan='6' cellspacing='0' cellpadding='0'>
@@ -291,13 +297,13 @@ Please Note:<br/>
             <label>City:</label>
           </td>
           <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactCity" />
+            <input type="text" name="_emergencyContactCity" />&nbsp;>&nbsp;>&nbsp;
           </td>
           <td valign='top'>
             <label>State:</label>
           </td>
           <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactState" size="5" />
+            <input type="text" name="_emergencyContactState" size="5" />&nbsp;>&nbsp;>&nbsp;
           </td>
           <td valign='top'>
             <label>Zip:</label>
