@@ -283,7 +283,7 @@ Please Note:<br/>
               <label>Address:</label>
             </td>
             <td colspan='3' valign='top' align='left'>
-              <input type="text" size='15' name="_emergencyContactAddress" />
+              <input type="text" style="width:100%" name="_emergencyContactAddress" />
             </td>
           </tr>
         </table>
@@ -322,7 +322,7 @@ Please Note:<br/>
     </tr>
     <tr>
       <td colspan='6' align='left'>
-        <input type="text" name="_personsOccupyApartment" size='15' required/>
+        <input type="text" name="_personsOccupyApartment" style="width:100%" required/>
       </td>
     </tr>
     <tr rowspan='2'>
@@ -340,7 +340,7 @@ Please Note:<br/>
         <input type="date" name="_dateSigned" min="2022-01-01" max="2099-12-31" required/>
       </td>
       <td valign='top' align='left' colspan='5'>
-        <input type="text" size='15' name="_applicantSignature" required/>
+        <input type="text" style="width:100%" name="_applicantSignature" required/>
       </td>  
     </tr>
     <tr>
