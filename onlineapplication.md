@@ -28,7 +28,7 @@ Please Note:<br/>
       </td>
     </tr>
     <tr>
-      <td colspan='4'>
+      <td colspan='4' cellspacing='0' cellpadding='0'>
         <table cellspacing='0' cellpadding='0'>
           <tr>
             <td valign='top'>
@@ -98,7 +98,7 @@ Please Note:<br/>
       </td>
     </tr>
     <tr>
-      <td colspan='4'>
+      <td colspan='4' cellspacing='0' cellpadding='0'>
         <table cellspacing='0' cellpadding='0'>
           <tr>
             <td  valign='top'>
@@ -156,36 +156,36 @@ Please Note:<br/>
         <label>Previous Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_previousAddress" required/>
+        <input type="text" name="_previousAddress"/>
       </td>
       <td valign='top'>
         <label>City:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="text" name="_previousAddressCity" required/>
+        <input type="text" name="_previousAddressCity"/>
       </td>
     </tr>
     <tr>
-      <td colspan='4'>
+      <td colspan='4' cellspacing='0' cellpadding='0'>
         <table cellspacing='0' cellpadding='0'>
           <tr>
             <td  valign='top'>
               <label>State:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" size="5" name="_previousAddressState" required/>&nbsp;&nbsp;
+              <input type="text" size="5" name="_previousAddressState"/>&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>Zip:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" maxlength="5" name="_previousAddressZip" required/>&nbsp;&nbsp;
+              <input type="number" style="width: 5em" maxlength="5" name="_previousAddressZip"/>&nbsp;&nbsp;
             </td>
             <td valign='top'>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" name="_previousAddressHowLong" required/>
+              <input type="number" style="width: 5em" name="_previousAddressHowLong"/>
             </td>
           </tr>
         </table>
@@ -224,7 +224,7 @@ Please Note:<br/>
         <label>Driver License #:</label>
       </td>
       <td colspan='5' valign='top' align='left'>
-        <input type="text" name="_driversLicenseNumber" required/>
+        <input type="text" name="_driversLicenseNumber" />
       </td>
     </tr>    
     <tr>
@@ -232,13 +232,13 @@ Please Note:<br/>
         <label>Employer:</label>
       </td>
       <td valign='top' align='left' colspan='3'>
-        <input type="text" name="_employer" required/>
+        <input type="text" name="_employer" />
       </td>
       <td valign='top'>
         <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_employerPhone" required/>
+        <input type="text" name="_employerPhone" />
       </td>     
     </tr>
     <tr>
@@ -246,24 +246,24 @@ Please Note:<br/>
         <label>Salary per year:</label>
       </td>
       <td valign='top' align='left' colspan='3'>
-        <input type="number" name="_salaryPerYear" required/>
+        <input type="number" name="_salaryPerYear" />
       </td>      
       <td valign='top'>
         <label>Title:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_employmentTitle" required/>
+        <input type="text" name="_employmentTitle" />
       </td>     
     </tr>
     <tr>
-      <td colspan='6'>
+      <td colspan='6' cellspacing='0' cellpadding='0'>
         <table cellspacing='0' cellpadding='0'>
           <tr>
             <td valign='top'>
               <label>Person to notify in case of emergency:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" name="_emergencyContactName" required />
+              <input type="text" name="_emergencyContactName" />
             </td>
           </tr>
         </table>
@@ -274,36 +274,36 @@ Please Note:<br/>
         <label>Phone #:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="text" name="_emergencyContactPhone" required/>
+        <input type="text" name="_emergencyContactPhone" />
       </td>
       <td valign='top'>
         <label>Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_emergencyContactAddress" required/>
+        <input type="text" name="_emergencyContactAddress" />
       </td>
     </tr>
     <tr>
-      <td colspan='6'>
+      <td colspan='6' cellspacing='0' cellpadding='0'>
         <table cellspacing='0' cellpadding='0'>
           <tr>
           <td valign='top'>
             <label>City:</label>
           </td>
           <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactCity" required/>
+            <input type="text" name="_emergencyContactCity" />
           </td>
           <td valign='top'>
             <label>State:</label>
           </td>
           <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactState" size="5" required/>
+            <input type="text" name="_emergencyContactState" size="5" />
           </td>
           <td valign='top'>
             <label>Zip:</label>
           </td>
           <td valign='top' align='left'>
-            <input type="number" style="width: 5em" maxlength="5" name="_emergencyContactZip" required/>
+            <input type="number" style="width: 5em" maxlength="5" name="_emergencyContactZip" />
           </td>
           </tr>
         </table>
@@ -316,7 +316,7 @@ Please Note:<br/>
     </tr>
     <tr>
       <td colspan='6' align='left'>
-        <input type="text" name="_personsOccupyApartment" required width="100%"/>
+        <input type="text" name="_personsOccupyApartment" size='15' required/>
       </td>
     </tr>
     <tr rowspan='2'>
@@ -334,7 +334,7 @@ Please Note:<br/>
         <input type="date" name="_dateSigned" min="2022-01-01" max="2099-12-31" required/>
       </td>
       <td valign='top' align='left' colspan='5'>
-        <input type="text" name="_applicantSignature" required/>
+        <input type="text" size='15' name="_applicantSignature" required/>
       </td>  
     </tr>
     <tr>
