@@ -12,7 +12,7 @@ Please Note:<br/>
 <!-- modify this form HTML and place wherever you want your form -->
 <form action="https://formspree.io/f/mvolzdgq" method="POST">
   <input type="hidden" name="_subject" value="Online Application from Website" />
-  <table border='1' style='border-collapse:collapse'>
+  <table style='border-collapse:collapse'>
     <tr>
       <td valign='top'>
         <label>Property Address:</label>
