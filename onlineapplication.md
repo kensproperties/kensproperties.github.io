@@ -24,7 +24,7 @@ Please Note:<br/>
         <label>Date:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="date" name="_todaysDate" min="2022-01-01" max="2099-12-31" required/>
+        <input type="date" style="width:100%" name="_todaysDate" min="2022-01-01" max="2099-12-31" required/>
       </td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ Please Note:<br/>
         <label>Date to Start:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="date" name="_dateToStart" min="2022-01-01" max="2099-12-31" required/>
+        <input type="date" style="width:100%" name="_dateToStart" min="2022-01-01" max="2099-12-31" required/>
       </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Please Note:<br/>
         <label>Date of Birth:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="date" name="_dateOfBirth" max="2099-12-31" required/>
+        <input type="date" style="width:100%" name="_dateOfBirth" max="2099-12-31" required/>
       </td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ Please Note:<br/>
         <label>Social Security #:</label>
       </td>
       <td colspan='5' valign='top' align='left'>
-        <input type="text" name="_socialSecurityNumber" required/>
+        <input type="text" style="width:100%" name="_socialSecurityNumber" required/>
       </td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ Please Note:<br/>
         <label>E-Mail Address:</label>
       </td>
       <td colspan='5' valign='top' align='left'>
-        <input type="email" name="_emailAddress" required />
+        <input type="email" style="width:100%" name="_emailAddress" required />
       </td>
     </tr>
     <tr>
@@ -94,7 +94,7 @@ Please Note:<br/>
         <label>City:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="text" name="_presentAddressCity" required/>
+        <input type="text" style="width:100%" name="_presentAddressCity" required/>
       </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ Please Note:<br/>
         <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_presentAddressPhone" required/>
+        <input type="text" style="width:100%" name="_presentAddressPhone" required/>
       </td>      
     </tr>
     <tr>
@@ -140,7 +140,7 @@ Please Note:<br/>
         <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_presentLandlordPhone" required/>
+        <input type="text" style="width:100%" name="_presentLandlordPhone" required/>
       </td>     
     </tr>
     <tr>
@@ -148,7 +148,7 @@ Please Note:<br/>
         <label>E-Mail Address:</label>
       </td>
       <td colspan='5' valign='top' align='left'>
-        <input type="email" name="__presentLandlordEmailAddress" required />
+        <input type="email" style="width:100%" name="__presentLandlordEmailAddress" required />
       </td>
     </tr>    
     <tr>
@@ -162,7 +162,7 @@ Please Note:<br/>
         <label>City:</label>
       </td>
       <td valign='top' align='left'>
-        <input type="text" name="_previousAddressCity"/>
+        <input type="text" style="width:100%" name="_previousAddressCity"/>
       </td>
     </tr>
     <tr>
