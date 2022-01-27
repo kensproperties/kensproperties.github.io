@@ -271,7 +271,7 @@ Please Note:<br/>
     </tr>
     <tr>
       <td colspan='6' cellspacing='0' cellpadding='0'>
-        <table cellspacing='0' cellpadding='0'>
+        <table cellspacing='0' cellpadding='0' style="width:100%">
           <tr>
             <td valign='top'>
               <label>Phone #:</label>
