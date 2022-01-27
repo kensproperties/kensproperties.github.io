@@ -256,8 +256,8 @@ Please Note:<br/>
       </td>     
     </tr>
     <tr>
-      <td colspan='6' cellspacing='0' cellpadding='0'>
-        <table cellspacing='0' cellpadding='0'>
+      <td colspan='6' cellspacing='0' cellpadding='0' style="width:100%">
+        <table cellspacing='0' cellpadding='0' style="width:100%">
           <tr>
             <td valign='top'>
               <label>Person to notify in case of emergency:</label>
