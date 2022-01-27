@@ -18,7 +18,7 @@ Please Note:<br/>
         <label>Property Address:</label>
       </td>
       <td colspan='3'>
-        <textarea width="100%" name="_propertyAddress" required></textarea>
+        <textarea style="width:100%" name="_propertyAddress" required></textarea>
       </td>
       <td valign='top'>
         <label>Date:</label>
@@ -58,7 +58,7 @@ Please Note:<br/>
         <label>Applicant's Name:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_applicantsName" required/>
+        <input type="text" style="width:100%" name="_applicantsName" required/>
       </td>
       <td valign='top'>
         <label>Date of Birth:</label>
@@ -88,7 +88,7 @@ Please Note:<br/>
         <label>Present Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_presentAddress" required/>
+        <input type="text" style="width:100%" name="_presentAddress" required/>
       </td>
       <td valign='top'>
         <label>City:</label>
@@ -134,7 +134,7 @@ Please Note:<br/>
         <label>Present Landlord:</label>
       </td>
       <td valign='top' align='left' colspan='3'>
-        <input type="text" name="_presentLandlord" required/>
+        <input type="text" style="width:100%" name="_presentLandlord" required/>
       </td>
       <td valign='top'>
         <label>Phone #:</label>
@@ -156,7 +156,7 @@ Please Note:<br/>
         <label>Previous Address:</label>
       </td>
       <td colspan='3' valign='top' align='left'>
-        <input type="text" name="_previousAddress"/>
+        <input type="text" style="width:100%" name="_previousAddress"/>
       </td>
       <td valign='top'>
         <label>City:</label>
@@ -202,7 +202,7 @@ Please Note:<br/>
         <label>Previous Landlord:</label>
       </td>
       <td valign='top' align='left' colspan='3'>
-        <input type="text" name="_previousLandlord" required/>
+        <input type="text" style="width:100%" name="_previousLandlord" required/>
       </td>
       <td valign='top'>
         <label>Phone #:</label>
@@ -232,7 +232,7 @@ Please Note:<br/>
         <label>Employer:</label>
       </td>
       <td valign='top' align='left' colspan='3'>
-        <input type="text" name="_employer" />
+        <input type="text" style="width:100%" name="_employer" />
       </td>
       <td valign='top'>
         <label>Phone #:</label>
@@ -246,7 +246,7 @@ Please Note:<br/>
         <label>Salary per year:</label>
       </td>
       <td valign='top' align='left' colspan='3'>
-        <input type="number" name="_salaryPerYear" />
+        <input type="number" style="width:100%" name="_salaryPerYear" />
       </td>      
       <td valign='top'>
         <label>Title:</label>
