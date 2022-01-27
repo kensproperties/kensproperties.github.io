@@ -194,12 +194,12 @@ Please Note:<br/>
         <label>Phone:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_previousAddressPhone" required/>
+        <input type="text" style="width:100%" name="_previousAddressPhone" required/>
       </td>      
     </tr>
     <tr>
       <td valign='top'>
-        <label>Present Landlord:</label>
+        <label>Previous Landlord:</label>
       </td>
       <td valign='top' align='left' colspan='3'>
         <input type="text" name="_previousLandlord" required/>
@@ -208,7 +208,7 @@ Please Note:<br/>
         <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_previousLandlordPhone" required/>
+        <input type="text" style="width:100%" name="_previousLandlordPhone" required/>
       </td>     
     </tr>
     <tr>
@@ -216,7 +216,7 @@ Please Note:<br/>
         <label>E-Mail Address:</label>
       </td>
       <td colspan='5' valign='top' align='left'>
-        <input type="email" name="__previousLandlordEmailAddress" required />
+        <input type="email" style="width:100%" name="__previousLandlordEmailAddress" required />
       </td>
     </tr>
     <tr>
@@ -224,7 +224,7 @@ Please Note:<br/>
         <label>Driver License #:</label>
       </td>
       <td colspan='5' valign='top' align='left'>
-        <input type="text" name="_driversLicenseNumber" />
+        <input type="text" style="width:100%" name="_driversLicenseNumber" />
       </td>
     </tr>    
     <tr>
@@ -238,7 +238,7 @@ Please Note:<br/>
         <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_employerPhone" />
+        <input type="text" style="width:100%" name="_employerPhone" />
       </td>     
     </tr>
     <tr>
@@ -252,7 +252,7 @@ Please Note:<br/>
         <label>Title:</label>
       </td>      
       <td valign='top' align='left'>
-        <input type="text" name="_employmentTitle" />
+        <input type="text" style="width:100%" name="_employmentTitle" />
       </td>     
     </tr>
     <tr>
@@ -263,7 +263,7 @@ Please Note:<br/>
               <label>Person to notify in case of emergency:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="text" name="_emergencyContactName" />
+              <input type="text" style="width:100%" name="_emergencyContactName" />
             </td>
           </tr>
         </table>
