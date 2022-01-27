@@ -117,7 +117,7 @@ Please Note:<br/>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 7em" name="_presentAddressHowLong" required/>
+              <input type="number" style="width: 5em" name="_presentAddressHowLong" required/>
             </td>
           </tr>
         </table>
@@ -185,7 +185,7 @@ Please Note:<br/>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 7em" name="_previousAddressHowLong"/>
+              <input type="number" style="width: 6em" name="_previousAddressHowLong"/>
             </td>
           </tr>
         </table>
