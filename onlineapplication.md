@@ -117,7 +117,7 @@ Please Note:<br/>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" name="_presentAddressHowLong" required/>
+              <input type="number" style="width: 6em" name="_presentAddressHowLong" required/>
             </td>
           </tr>
         </table>
@@ -185,7 +185,7 @@ Please Note:<br/>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 5em" name="_previousAddressHowLong"/>
+              <input type="number" style="width: 6em" name="_previousAddressHowLong"/>
             </td>
           </tr>
         </table>
@@ -256,65 +256,54 @@ Please Note:<br/>
       </td>     
     </tr>
     <tr>
-      <td colspan='6' cellspacing='0' cellpadding='0' style="width:100%">
-        <table cellspacing='0' cellpadding='0' style="width:100%">
-          <tr>
-            <td valign='top'>
-              <label>Person to notify in case of emergency:</label>
-            </td>
-            <td valign='top' align='left'>
-              <input type="text" style="width:100%" name="_emergencyContactName" />
-            </td>
-          </tr>
-        </table>
-    </td>
+      <td valign='top' colspan='6'>
+        <label>Person to notify in case of emergency:</label>
+      </td>
+    </tr>
+      <td valign='top' colspan='6' align='left'>
+        <input type="text" style="width:100%" name="_emergencyContactName" />
+      </td>
     </tr>
     <tr>
-      <td colspan='6' cellspacing='0' cellpadding='0' style="width:100%">
-        <table cellspacing='0' cellpadding='0' style="width:100%">
-          <tr>
-            <td valign='top'>
-              <label>Phone #:</label>
-            </td>
-            <td valign='top' align='left'>
-              <input type="text" name="_emergencyContactPhone" />&nbsp;&nbsp;
-            </td>
-            <td valign='top'>
-              <label>Address:</label>
-            </td>
-            <td valign='top' align='left'>
-              <input type="text" style="width:100%" name="_emergencyContactAddress" />
-            </td>
-          </tr>
-        </table>
-    </td>
-    </tr>
+      <td  valign='top'>
+        <label>Address:</label>
+      </td>
+      <td colspan='3' valign='top' align='left'>
+        <input type="text" style="width:100%" name="_emergencyContactAddress" required/>
+      </td>
+      <td valign='top'>
+        <label>City:</label>
+      </td>
+      <td valign='top' align='left'>
+        <input type="text" style="width:100%" name="_emergencyContactCity" required/>
+      </td>
+    </tr>  
     <tr>
-      <td colspan='6' cellspacing='0' cellpadding='0'>
+      <td colspan='4' cellspacing='0' cellpadding='0'>
         <table cellspacing='0' cellpadding='0'>
           <tr>
-          <td valign='top'>
-            <label>City:</label>
-          </td>
-          <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactCity" />&nbsp;&nbsp;&nbsp;
-          </td>
-          <td valign='top'>
-            <label>State:</label>
-          </td>
-          <td valign='top' align='left'>
-            <input type="text" name="_emergencyContactState" size="5" />&nbsp;&nbsp;&nbsp;
-          </td>
-          <td valign='top'>
-            <label>Zip:</label>
-          </td>
-          <td valign='top' align='left'>
-            <input type="number" style="width: 5em" maxlength="5" name="_emergencyContactZip" />
-          </td>
+            <td  valign='top'>
+              <label>State:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="text" size="5" name="_emergencyContactState"/>&nbsp;
+            </td>
+            <td valign='top'>
+              <label>Zip:</label>
+            </td>
+            <td valign='top' align='left'>
+              <input type="number" style="width: 5em" maxlength="5" name="_emergencyContactZip"/>&nbsp;
+            </td>
           </tr>
         </table>
-    </td>
-    </tr>
+      </td>
+      <td valign='top'>
+        <label>Phone:</label>
+      </td>      
+      <td valign='top' align='left'>
+        <input type="text" style="width:100%" name="_emergencyContactPhone" required/>
+      </td>      
+    </tr>  
     <tr>
       <td colspan='6' align='left'>
         <label>Name of person/s to occupy apartment:</label>
