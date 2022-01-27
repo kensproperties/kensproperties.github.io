@@ -117,7 +117,7 @@ Please Note:<br/>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 6em" name="_presentAddressHowLong" required/>
+              <input type="number" style="width: 7em" name="_presentAddressHowLong" required/>
             </td>
           </tr>
         </table>
@@ -185,13 +185,13 @@ Please Note:<br/>
               <label>How Long:</label>
             </td>
             <td valign='top' align='left'>
-              <input type="number" style="width: 6em" name="_previousAddressHowLong"/>
+              <input type="number" style="width: 7em" name="_previousAddressHowLong"/>
             </td>
           </tr>
         </table>
       </td>
       <td valign='top'>
-        <label>Phone:</label>
+        <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
         <input type="text" style="width:100%" name="_previousAddressPhone" required/>
@@ -260,6 +260,7 @@ Please Note:<br/>
         <label>Person to notify in case of emergency:</label>
       </td>
     </tr>
+    <tr>
       <td valign='top' colspan='6' align='left'>
         <input type="text" style="width:100%" name="_emergencyContactName" />
       </td>
@@ -298,7 +299,7 @@ Please Note:<br/>
         </table>
       </td>
       <td valign='top'>
-        <label>Phone:</label>
+        <label>Phone #:</label>
       </td>      
       <td valign='top' align='left'>
         <input type="text" style="width:100%" name="_emergencyContactPhone" required/>
