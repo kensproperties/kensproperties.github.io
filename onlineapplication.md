@@ -270,7 +270,7 @@ Please Note:<br/>
     </td>
     </tr>
     <tr>
-      <td colspan='6' cellspacing='0' cellpadding='0'>
+      <td colspan='6' cellspacing='0' cellpadding='0' style="width:100%">
         <table cellspacing='0' cellpadding='0' style="width:100%">
           <tr>
             <td valign='top'>
@@ -282,7 +282,7 @@ Please Note:<br/>
             <td valign='top'>
               <label>Address:</label>
             </td>
-            <td colspan='3' valign='top' align='left'>
+            <td valign='top' align='left'>
               <input type="text" style="width:100%" name="_emergencyContactAddress" />
             </td>
           </tr>
