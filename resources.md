@@ -4,6 +4,7 @@ layout: page
 
 ## Resources
 
+[Pay Now](/PayNow)
 
 **Forms**<br/>
 * [Application (Online)](/onlineapplication)
