@@ -13,7 +13,7 @@ layout: page
       <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
     <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
   </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=AXMGw67Ss-xrBF3Ad5biZsc5M0nnZRsZ877clEMj-7VDQ0ynmevCOwVy8sg4yOT2fxiSQ2_ozKCch4xw&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
   <script>
   function initPayPalButton() {
     var description = document.querySelector('#smart-button-container #description');
@@ -122,5 +122,5 @@ layout: page
   }
   initPayPalButton();
   </script>
-
+    
 [back](./)
