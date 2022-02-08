@@ -6,7 +6,7 @@ layout: page
 
 Please Note:<br/>
 1. All properties and apartments are smoke free and pet free environments.
-2. A $75 fee is requested to be paid in conjunction with this application.  Applicant permits and allows landlord to purchase a credit report to and to contact current and  former landlords for the purpose of establishing a satisfactory record of rent payment.  [PayNow](/PayNow)
+2. A $75 fee is requested to be paid in conjunction with this application.  Applicant permits and allows landlord to purchase a credit report to and to contact current and  former landlords for the purpose of establishing a satisfactory record of rent payment.  You can [Pay Now](/PayNow) or later using the Pay Now page under Resources.
 3. All information provided will remain strictly confidential.
 <br>
 <!-- modify this form HTML and place wherever you want your form -->
