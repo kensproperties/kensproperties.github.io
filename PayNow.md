@@ -5,10 +5,30 @@ layout: page
 ## Pay Now
 
 <div id="smart-button-container">
-    <div style="text-align: center"><label for="description">Property Address </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
-      <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
-    <div style="text-align: center"><label for="amount">Amount </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
-      <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
+    <table>
+        <tr>
+            <td>
+                <label for="description">Property Address </label>
+            </td>
+            <td>
+                <input type="text" name="descriptionInput" id="description" maxlength="127" value="">
+            </td>
+            <td>
+                <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="amount">Amount </label>
+            </td>
+            <td>
+                <input name="amountInput" type="number" id="amount" value="" ><span> USD</span>
+            </td>
+            <td>
+                <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>                
+            </td>
+        </tr>        
+    </table>
     <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
       <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
     <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
