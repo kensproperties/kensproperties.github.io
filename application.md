@@ -4,8 +4,9 @@ layout: page
 
 ## Application Forms
 
-<a href="/assets/Application_doc.pdf">Application For Tenancy - PDF Format</a>
-<br>
-<a href="/assets/Application_doc.docx">Application For Tenancy - DOC Format</a>
+* [Application (Online)](/onlineapplication)
+* [Application For Tenancy (PDF)](/assets/Application_doc.pdf)
+* [Application For Tenancy (DOC)](/assets/Application_doc.docx)
+* [Sample Lease](/assets/Sample_Lease.pdf)
 <br>
 [back](./)
