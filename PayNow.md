@@ -14,7 +14,7 @@ layout: page
                 <input type="text" name="descriptionInput" id="description" maxlength="127" value="">
             </td>
             <td>
-                <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>                
+                <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a property address</p>                
             </td>
         </tr>
         <tr>
@@ -25,7 +25,7 @@ layout: page
                 <input name="amountInput" type="number" id="amount" value="" ><span> USD</span>
             </td>
             <td>
-                <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>                
+                <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter an amount</p>                
             </td>
         </tr>        
     </table>
