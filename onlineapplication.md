@@ -15,7 +15,7 @@ Please Note:<br/>
   <table style='border-collapse:collapse'>
     <tr>
       <td valign='top'>
-        <label>Property Address:</label>
+        <label class="boldLabel">Property Address:</label>
       </td>
       <td colspan='3'>
         <textarea style="width:100%" name="_propertyAddress" required></textarea>
