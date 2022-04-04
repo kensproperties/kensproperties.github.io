@@ -20,6 +20,7 @@ layout: page
 * [Ann Arbor Transportation Authority (AATA)](http://www.theride.org/) - Ann Arbor bus stops and routes, schedules, maps, fees, etc.<br/>
 * [University of Michigan Transportation](https://ltp.umich.edu/transit/routes.php) - Information about U of M busses, parking lots, parking passes and more.<br/>
 * [University of Michigan Off-Campus Housing](https://offcampushousing.umich.edu/resource) - A resource for Michigan students to find roommates, sublets and more.<br/>
+* [Ann Arbor Ordinance Number 21-22](/assets/AnnArbor_21-22.pdf) - Information about lease agreements and entry to show residential premises.<br/>
 
 **Utilities**<br/>
 
