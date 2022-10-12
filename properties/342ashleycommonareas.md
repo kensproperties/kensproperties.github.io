@@ -1,0 +1,10 @@
+![](/assets/images/342offices/CommonAreas/342Common1.jpg)
+![](/assets/images/342offices/CommonAreas/342Common2.jpg)
+![](/assets/images/342offices/CommonAreas/342Common3.jpg)
+![](/assets/images/342offices/CommonAreas/342Common4.jpg)
+![](/assets/images/342offices/CommonAreas/342Common5.jpg)
+![](/assets/images/342offices/CommonAreas/342Common6.jpg)
+![](/assets/images/342offices/CommonAreas/342Common7.jpg)
+![](/assets/images/342offices/CommonAreas/342Common8.jpg)
+
+[back](/)
