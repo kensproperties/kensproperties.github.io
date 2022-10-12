@@ -14,5 +14,8 @@ layout: page
 * 2” white wood Venetian blinds on windows.
 
 ![](/assets/images/342offices/342office201pic1.jpg)
+![](/assets/images/342offices/342office201pic2.jpg)
+![](/assets/images/342offices/342office201pic3.jpg)
+![](/assets/images/342offices/342office201pic4.jpg)
 
 [back](/)
