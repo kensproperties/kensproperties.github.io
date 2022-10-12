@@ -13,4 +13,8 @@ layout: page
 * One west facing window.
 * 1” aluminum mini blind on window.
 
+![](/assets/images/342offices/342office203pic1.jpg)
+![](/assets/images/342offices/342office203pic2.jpg)
+![](/assets/images/342offices/342office203pic3.jpg)
+
 [back](/)
