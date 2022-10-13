@@ -7,9 +7,9 @@ layout: page
 ## Office 201
 ### Description
 
-* Approximately 170 square feet
+* Approximately 170 square feet.
 * Second floor.
-* Carpeted
+* Carpeted.
 * Two large east facing windows.
 * 2” white wood Venetian blinds on windows.
 * Remote controlled ceiling fan.
