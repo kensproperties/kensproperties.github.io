@@ -7,14 +7,14 @@ layout: page
 ## Office 202
 ### Description
 
-* Approximately 120 square feet
+* Approximately 120 square feet.
 * Second floor.
-* Carpeted
+* Carpeted.
 * One large south facing window.
-* 1” aluminum mini blind on window.
+* 2” white wood Venetian blinds on window.
+* Remote controlled ceiling fan.
 
 ![](/assets/images/342offices/342office202pic1.jpg)
-![](/assets/images/342offices/342office202pic2.jpg)
 ![](/assets/images/342offices/342office202pic3.jpg)
 
 [back](/)
