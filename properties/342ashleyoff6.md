@@ -7,14 +7,15 @@ layout: page
 ## Office 203
 ### Description
 
-* Approximately 110 square feet
+* Approximately 110 square feet.
 * Second floor.
-* Carpeted
+* Carpeted.
 * One west facing window.
-* 1” aluminum mini blind on window.
+* 2” white wood Venetian blinds on window.
+* Remote controlled ceiling fan.
 
-![](/assets/images/342offices/342office203pic1.jpg)
-![](/assets/images/342offices/342office203pic2.jpg)
-![](/assets/images/342offices/342office203pic3.jpg)
+![](/assets/images/342offices/342office203pic1.jpeg)
+![](/assets/images/342offices/342office203pic2.jpeg)
+![](/assets/images/342offices/342office203pic3.jpeg)
 
 [back](/)
