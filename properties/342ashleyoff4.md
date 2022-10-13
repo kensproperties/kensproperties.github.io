@@ -12,6 +12,7 @@ layout: page
 * Carpeted
 * Two large east facing windows.
 * 2” white wood Venetian blinds on windows.
+* Remote controlled ceiling fan.
 
 ![](/assets/images/342offices/342office201pic1.jpg)
 ![](/assets/images/342offices/342office201pic2.jpg)
