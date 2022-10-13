@@ -15,5 +15,8 @@ layout: page
 * Air-conditioned.
 
 ![](/assets/images/342offices/342office101pic1.jpg)
+![](/assets/images/342offices/342office101pic2.jpg)
+![](/assets/images/342offices/342office101pic3.jpg)
+![](/assets/images/342offices/342office101pic4.jpg)
 
 [back](/)
