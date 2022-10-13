@@ -7,7 +7,7 @@ layout: page
 ## Office 102
 ### Description
 
-* Approximately 170 square feet
+* Approximately 170 square feet.
 * First Floor.
 * Carpeted.
 * Three panel, south facing bay window with leaded glass plus large, fixed glass west facing window with leaded glass.
