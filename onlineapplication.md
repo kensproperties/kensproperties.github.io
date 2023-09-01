@@ -317,13 +317,13 @@ Please Note:<br/>
     </tr>
     <tr rowspan='2'>
       <td colspan='6' align='left'>
-        <input type="hidden" id="_consent" name="_consent" value="I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge."/>        
+        <input type="hidden" name="_consent" value="I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge."/>        
         <label>I the undersigned hereby certify that the answers I have given in this application are true and correct to the best of my knowledge.</label>
       </td>
     </tr>
     <tr rowspan='2'>
       <td colspan='6' align='left'>
-        <input type="hidden" id="_previousLandlandConsent" name="_previousLandlandConsent" value="I the undersigned permit the landlord named above or his or her representative(s) to contact any current and/or previous landlord and to discuss with him or her or his or her representatives any and all information pertaining to my tenancy for the purpose of, but not limited to, establishing my rental payment history and care of the rental property."/>
+        <input type="hidden" name="_previousLandlandConsent" value="I the undersigned permit the landlord named above or his or her representative(s) to contact any current and/or previous landlord and to discuss with him or her or his or her representatives any and all information pertaining to my tenancy for the purpose of, but not limited to, establishing my rental payment history and care of the rental property."/>
         <label>I the undersigned permit the landlord named above or his or her representative(s) to contact any current and/or previous landlord and to discuss with him or her or his or her representatives any and all information pertaining to my tenancy for the purpose of, but not limited to, establishing my rental payment history and care of the rental property.</label>
       </td>
     </tr>
