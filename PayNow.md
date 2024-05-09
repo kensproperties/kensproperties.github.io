@@ -5,7 +5,7 @@ layout: page
 ## Pay Now
 
 1. Please enter the property address with apartment number in the property address field.
-2. Please note the $75 application fee is not refundable.
+2. Please note the $104 application fee is not refundable.
 <br>
 
 <div id="smart-button-container">
